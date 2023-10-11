@@ -7,8 +7,6 @@ import os
 def get_relevant_data(event):
     data = dict()
 
-    data["eventTime"] = event["eventTime"]
-    data["eventType"] = event["eventType"]
     if event["eventType"] == "building_destroyed":
         data["teamID"] = event["teamID"]
     
