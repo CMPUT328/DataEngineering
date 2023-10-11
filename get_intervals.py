@@ -9,6 +9,25 @@ def get_relevant_data(event):
 
     data["eventTime"] = event["eventTime"]
     data["eventType"] = event["eventType"]
+    if event["eventType"] == "building_destroyed":
+        data["teamID"] = event["teamID"]
+    
+    if event["eventType"] == "champion_kill":
+        data['victimTeamID'] = event['victimTeamID']
+        data['victim'] = event['victim']
+        data['killerTeamID'] = event['killerTeamID']
+
+    if event["eventType"] == "epic_monster_kill":
+        data['killerTeamID'] = event['killerTeamID']
+        data['killer'] = event['killer']
+        data['monsterType'] = event['monsterType']
+
+    if event["eventType"] == "turret_plate_destroyed":
+        data['teamID'] = event['teamID']
+
+    if event["eventType"] == "game_end":
+        data['winningTeam'] = event['winningTeam']
+        
     event_type = event["eventType"]
 
     # get info based on event type
@@ -43,7 +62,6 @@ def group_events_by_interval(events):
 
 def get_events_from_file(file_name, path):
     path = os.path.join(path, file_name)
-    print(path)
     with open(path, "r") as json_file:
         json_data = json_file.read()
     events = json.loads(json_data)
@@ -52,9 +70,10 @@ def get_events_from_file(file_name, path):
     output_path = os.path.join(os.path.abspath(os.getcwd()), 'DataEngineering/games/intervals/')
     if not os.path.exists(output_path):
         cwd = os.path.abspath(os.getcwd())
-        os.makedirs(os.path.join(cwd, 'intervals/'))
+        os.makedirs(output_path)
 
-    output_file = output_path + file_name
+    output_file = output_path + "/" + file_name
+    print(output_file)
     with open(output_file, 'w') as data_file:
         json.dump(grouped_events, data_file, indent=4)
 
