@@ -2,10 +2,7 @@ import json
 from datetime import datetime, timedelta
 import os
 
-with open('games/ESPORTSTMNT03_3196037.json', 'r') as data_file:
-    json_data = data_file.read()
 
-events = json.loads(json_data)
 
 def get_relevant_data(event):
     data = dict()
@@ -44,12 +41,24 @@ def group_events_by_interval(events):
     grouped_events.append(current_interval_events)
     return grouped_events
 
-# Group events into 5-minute intervals
-grouped_events = group_events_by_interval(events)
+def get_events_from_file(file_name, path):
+    path = os.path.join(path, file_name)
+    print(path)
+    with open(path, "r") as json_file:
+        json_data = json_file.read()
+    events = json.loads(json_data)
+    grouped_events = group_events_by_interval(events)
 
-if not os.path.exists('intervals/'):
-    cwd = os.path.abspath(os.getcwd())
-    os.makedirs(os.path.join(cwd, 'intervals/'))
+    output_path = os.path.join(os.path.abspath(os.getcwd()), 'DataEngineering/games/intervals/')
+    if not os.path.exists(output_path):
+        cwd = os.path.abspath(os.getcwd())
+        os.makedirs(os.path.join(cwd, 'intervals/'))
 
-with open('intervals/ESPORTSTMNT03_3196037.json', 'w') as data_file:
-    json.dump(grouped_events, data_file, indent=4)
+    output_file = output_path + file_name
+    with open(output_file, 'w') as data_file:
+        json.dump(grouped_events, data_file, indent=4)
+
+cwd = os.path.abspath(os.getcwd())
+path = os.path.join(cwd, 'DataEngineering/games/')
+for file in os.listdir(path):
+    get_events_from_file(file, path)
