@@ -3,3 +3,4 @@ games/
 intervals/
 venv/
 mapping_data.db
+**/.DS_Store
