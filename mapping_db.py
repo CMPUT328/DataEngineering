@@ -1,7 +1,7 @@
 import sqlite3
 import json
 
-with open('esports-data/mapping_data.json', 'r') as data_file:
+with open('esports_data/raw_data/mapping_data.json', 'r') as data_file:
     json_data = data_file.read()
 
 json_objects = json.loads(json_data)
