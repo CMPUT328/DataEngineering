@@ -4,7 +4,7 @@ import os
 import sqlite3
 
 prev_stats_update = None
-
+team_info_global = None
 
 def get_participants_and_teams(platform_game_id):
     conn = sqlite3.connect('mapping_data.db')
@@ -59,8 +59,12 @@ def get_team_info(event):
     team_100_players, team_200_players = [], []
     for p in participants:
         # res["participant_ids"] is ordered, particpantId 1 is index 0, 2 is 1 and so on
-        team_info[f'team_{p["teamID"]}']["players"].append(
-            res["participant_ids"][p["participantID"]-1])
+        team_info[f'team_{p["teamID"]}']["players"].append((
+            p["participantID"],
+            res["participant_ids"][p["participantID"]-1]
+        ))
+
+        team_info[p["participantID"]] = (p["teamID"], res["participant_ids"][p["participantID"]-1], p["accountID"])
 
     return team_info
 
@@ -162,11 +166,15 @@ def group_events_by_interval(events):
 
 
 def get_events_from_file(file_name, path):
+    global team_info_global
+
     path = os.path.join(path, file_name)
     with open(path, "r") as json_file:
         json_data = json_file.read()
     events = json.loads(json_data)
     team_info = get_team_info(events[0])
+    team_info_global = team_info
+
     grouped_events = group_events_by_interval(events)
 
     output_path = os.path.join(os.path.abspath(os.getcwd()), 'intervals/')
