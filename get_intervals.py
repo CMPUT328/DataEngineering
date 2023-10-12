@@ -3,6 +3,9 @@ from datetime import datetime, timedelta
 import os
 import sqlite3
 
+prev_stats_update = None
+
+
 def get_participants_and_teams(platform_game_id):
     conn = sqlite3.connect('mapping_data.db')
     cursor = conn.cursor()
@@ -35,6 +38,7 @@ def get_participants_and_teams(platform_game_id):
 
     return result_dict
 
+
 def get_team_info(event):
     if event["eventType"] != "game_info":
         raise ValueError("Tried to get team info from a non game_info event")
@@ -42,51 +46,93 @@ def get_team_info(event):
     participants = event["participants"]
     res = get_participants_and_teams(event["platformGameId"])
     team_info = {
-        "team_100" : {
-            "team_id" : res["team_100"],
-            "players" : []
+        "team_100": {
+            "team_id": res["team_100"],
+            "players": []
         },
-        "team_200" : {
-            "team_id" : res["team_200"],
-            "players" : []
+        "team_200": {
+            "team_id": res["team_200"],
+            "players": []
         }
     }
 
     team_100_players, team_200_players = [], []
     for p in participants:
         # res["participant_ids"] is ordered, particpantId 1 is index 0, 2 is 1 and so on
-        team_info[f'team_{p["teamID"]}']["players"].append(res["participant_ids"][p["participantID"]-1])
+        team_info[f'team_{p["teamID"]}']["players"].append(
+            res["participant_ids"][p["participantID"]-1])
 
     return team_info
+
 
 def get_relevant_data(event):
     data = dict()
 
     data["eventTime"] = event["eventTime"]
     data["eventType"] = event["eventType"]
-    if event["eventType"] == "building_destroyed":
-        data["teamID"] = event["teamID"]
-    
-    if event["eventType"] == "champion_kill":
-        data['victimTeamID'] = event['victimTeamID']
-        data['victim'] = event['victim']
-        data['killerTeamID'] = event['killerTeamID']
 
+    if event["eventType"] == "building_destroyed":
+        key_list = ["teamID", "buildingType", "lane", "turretTier"]
+        for k in key_list:
+            try: 
+                data[k] = event[k]
+            except KeyError:
+                pass
+
+    # there is also champion_kill special, which is multikills and first blood
+    if event["eventType"] == "champion_kill":
+        key_list = ["victimTeamID", "victim",
+                    "killerTeamID", "shutdownBounty", "bounty"]
+        for k in key_list:
+            data[k] = event[k]
+
+        # how many players killed the champion
+        # can store the people giving assist if we want
+        data["num_attackers"] = len(event["assistants"]) + 1
+
+    # if it's a dragon there is an extra key about the type of dragon, can add if we want
     if event["eventType"] == "epic_monster_kill":
-        data['killerTeamID'] = event['killerTeamID']
-        data['killer'] = event['killer']
-        data['monsterType'] = event['monsterType']
+        key_list = ["killerTeamID", "killer",
+                    "monsterType", "inEnemyJungle"]
+        for k in key_list:
+            data[k] = event[k]
+
+        # how many players killed the monster
+        data["num_attackers"] = len(event["assistants"]) + 1
 
     if event["eventType"] == "turret_plate_destroyed":
         data['teamID'] = event['teamID']
 
     if event["eventType"] == "game_end":
         data['winningTeam'] = event['winningTeam']
-        
+
+    if event["eventType"] == "stats_update":
+        global prev_stats_update
+        if prev_stats_update is None:
+            prev_stats_update = event
+        else:
+            prev_participants = prev_stats_update["participants"]
+            cur_participants = event["participants"]
+            for i in range(10):
+                cur, prev = prev_participants[i], cur_participants[i]
+
+                # ultimate used
+                if cur["ultimateCooldownRemaining"] > prev["ultimateCooldownRemaining"]:
+                    data.update(
+                        {
+                            "eventInfo": "ultimateUsed",
+                            "casterID": cur["participantID"],
+                            "teamID": cur["teamID"]
+                        }
+                    )
+
+            prev_stats_update = event
 
     return data
 
 # Function to group events into 5-minute intervals
+
+
 def group_events_by_interval(events):
     interval_length = 5  # in minutes
     grouped_events = []
@@ -96,7 +142,8 @@ def group_events_by_interval(events):
     # skip the first game_info event
     for i in range(1, len(events)):
         event = events[i]
-        event_time = datetime.fromisoformat(event["eventTime"][:-1])  # Parse event time
+        event_time = datetime.fromisoformat(
+            event["eventTime"][:-1])  # Parse event time
         if current_interval_start is None:
             current_interval_start = event_time
 
@@ -111,6 +158,7 @@ def group_events_by_interval(events):
     # Add the last interval
     grouped_events.append(current_interval_events)
     return grouped_events
+
 
 def get_events_from_file(file_name, path):
     path = os.path.join(path, file_name)
@@ -128,13 +176,14 @@ def get_events_from_file(file_name, path):
     output_file = os.path.join(output_path, file_name)
 
     obj = {
-        "team_info" : team_info,
-        "intervaled_events" : grouped_events
+        "team_info": team_info,
+        "intervaled_events": grouped_events
     }
     with open(output_file, 'w') as data_file:
         json.dump(obj, data_file, indent=4)
-    
+
     print(f"Done writing {output_file}...")
+
 
 cwd = os.path.abspath(os.getcwd())
 path = os.path.join(cwd, 'games/')
