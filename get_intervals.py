@@ -110,7 +110,7 @@ def get_relevant_data(event):
         data['teamID'] = event['teamID']
 
     if event["eventType"] == "game_end":
-        data['winningTeam'] = event['winningTeam']
+        data['teamID'] = event['winningTeam']
 
     if event["eventType"] == "stats_update":
         global prev_stats_update
