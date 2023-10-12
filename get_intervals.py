@@ -117,7 +117,8 @@ def get_relevant_data(event):
                 cur, prev = prev_participants[i], cur_participants[i]
 
                 # ultimate used
-                if cur["ultimateCooldownRemaining"] > prev["ultimateCooldownRemaining"]:
+                if cur["ultimateCooldownRemaining"] > 0 and prev["ultimateCooldownRemaining"] == 0:
+                    assert(cur["participantID"] == prev["participantID"])
                     data.update(
                         {
                             "eventInfo": "ultimateUsed",
