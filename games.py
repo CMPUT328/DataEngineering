@@ -8,7 +8,7 @@ from io import BytesIO
 
 
 S3_BUCKET_URL = "https://power-rankings-dataset-gprhack.s3.us-west-2.amazonaws.com"
-
+MAX_GAMES = 10
 
 def download_gzip_and_write_to_json(file_name):
    local_file_name = file_name.replace(":", "_")
@@ -42,9 +42,9 @@ def download_esports_files():
 
 def download_games(year):
    start_time = time.time()
-   with open("esports-data/tournaments.json", "r") as json_file:
+   with open("esports_data/raw_data/tournaments.json", "r") as json_file:
        tournaments_data = json.load(json_file)
-   with open("esports-data/mapping_data.json", "r") as json_file:
+   with open("esports_data/raw_data/mapping_data.json", "r") as json_file:
        mappings_data = json.load(json_file)
 
    directory = "games"
@@ -81,6 +81,9 @@ def download_games(year):
                                     f"----- Processed {game_counter} games, current run time: \
                                     {round((time.time() - start_time)/60, 2)} minutes"
                                 )
+                            
+                            if game_counter > MAX_GAMES:
+                                return
 
 
 if __name__ == "__main__":
