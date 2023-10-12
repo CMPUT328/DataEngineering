@@ -88,7 +88,10 @@ def get_relevant_data(event):
         key_list = ["victimTeamID", "victim",
                     "killerTeamID", "shutdownBounty", "bounty"]
         for k in key_list:
-            data[k] = event[k]
+            if k == "killerTeamID":
+                data['teamID'] = event[k]
+            else:
+                data[k] = event[k]
 
         # how many players killed the champion
         # can store the people giving assist if we want
@@ -99,7 +102,10 @@ def get_relevant_data(event):
         key_list = ["killerTeamID", "killer",
                     "monsterType", "inEnemyJungle"]
         for k in key_list:
-            data[k] = event[k]
+            if k == "killerTeamID":
+                data['teamID'] = event[k]
+            else:
+                data[k] = event[k]
 
         # how many players killed the monster
         data["num_attackers"] = len(event["assistants"]) + 1
