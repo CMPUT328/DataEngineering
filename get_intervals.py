@@ -6,6 +6,7 @@ import sqlite3
 prev_stats_update = None
 team_info_global = None
 
+
 def get_participants_and_teams(platform_game_id):
     conn = sqlite3.connect('mapping_data.db')
     cursor = conn.cursor()
@@ -64,7 +65,8 @@ def get_team_info(event):
             res["participant_ids"][p["participantID"]-1]
         ))
 
-        team_info[p["participantID"]] = (p["teamID"], res["participant_ids"][p["participantID"]-1], p["accountID"])
+        team_info[p["participantID"]] = (
+            p["teamID"], res["participant_ids"][p["participantID"]-1], p["accountID"])
 
     return team_info
 
@@ -75,10 +77,21 @@ def get_relevant_data(event):
     data["eventTime"] = event["eventTime"]
     data["eventType"] = event["eventType"]
 
+    if event["eventType"] not in ["building_destroyed", "champion_kill", "epic_monster_kill", "turret_plate_destroyed", "stats_update", "game_end"]:
+        pass
+
+    try:
+        data["teamID"] = event["teamID"]
+    except KeyError:
+        try:
+            pass
+        except:
+            pass
+
     if event["eventType"] == "building_destroyed":
         key_list = ["teamID", "buildingType", "lane", "turretTier"]
         for k in key_list:
-            try: 
+            try:
                 data[k] = event[k]
             except KeyError:
                 pass
@@ -128,7 +141,7 @@ def get_relevant_data(event):
 
                 # ultimate used
                 if cur["ultimateCooldownRemaining"] > 0 and prev["ultimateCooldownRemaining"] == 0:
-                    assert(cur["participantID"] == prev["participantID"])
+                    assert (cur["participantID"] == prev["participantID"])
                     data.update(
                         {
                             "eventInfo": "ultimateUsed",
