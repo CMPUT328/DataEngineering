@@ -109,9 +109,6 @@ unique_teams = {team for match in data for team in match["teams"]}
 # Initialize strengths
 team_strengths = {unique_team: 1000 for unique_team in unique_teams}
 
-k1 = 30
-k2 = 20
-
 def get_index_of_key(d, target_key):
     for index, key in enumerate(d.keys()):
         if key == target_key:
@@ -128,7 +125,7 @@ for team1, team2, result, league_id, section_name, date in training_data:
         k2 = 5
 
         if (section_name == "Playoffs" or section_name == "knockouts"):
-            k1 *= 1.5
+            k1 *= 2.5
             k2 *= 1.5
 
         # Update strength for team 1
@@ -153,7 +150,7 @@ for team1, team2, result, league_id, section_name, date in training_data:
         k2 = league_ranks[original_dict[str(league_id)]]
 
         if (section_name == "Playoffs" or section_name == "knockouts"):
-            k1 *= 1.5
+            k1 *= 2.5
             k2 *= 1.5
 
         # Update strength for team 1
@@ -259,6 +256,7 @@ for rank, (team_id, team_strength) in enumerate(sorted_strength.items(), 1):
         if str(team["team_id"]) == str(team_id):
             ranked_teams.append({
                 "team_id": team_id,
+                "name": team["name"],
                 "rank": rank,
                 "Strength": team_strength,
             })
