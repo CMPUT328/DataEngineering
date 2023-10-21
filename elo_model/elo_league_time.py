@@ -259,12 +259,13 @@ for rank, (team_id, team_strength) in enumerate(sorted_strength.items(), 1):
         if str(team["team_id"]) == str(team_id):
             ranked_teams.append({
                 "team_id": team_id,
-                "rank": rank
+                "rank": rank,
+                "Strength": team_strength,
             })
             break
 
 # Convert the ranked_teams list to JSON
-with open("ranked_teams.json", "w") as file:
+with open("ranked_teams_with_score.json", "w") as file:
     json.dump(ranked_teams, file, indent=4)
 
 # Test accuracy using test data
