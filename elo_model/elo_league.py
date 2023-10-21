@@ -92,12 +92,6 @@ league_ranking = {
 # Sorting the original dictionary based on the hypothetical league rankings
 sorted_dict = dict(sorted(original_dict.items(), key=lambda item: league_ranking.get(item[1], float('inf'))))
 
-# Printing the sorted dictionary
-# for key, value in sorted_dict.items():
-#     print(f"{key}: {value}")
-
-
-
 # Construct the game_results array directly without mapping
 game_results = []
 for match in data:
@@ -118,7 +112,7 @@ unique_teams = {team for match in data for team in match["teams"]}
 # Initialize strengths
 team_strengths = {unique_team: 1000 for unique_team in unique_teams}
 
-k1 = 30
+k1 = 40
 k2 = 30
 
 def get_index_of_key(d, target_key):
