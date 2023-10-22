@@ -3,3546 +3,3546 @@
         "team_id": "100205573495116443",
         "name": "Gen.G",
         "rank": 1,
-        "Strength": 1873.75479515018
+        "Strength": 1909.125104234034
     },
     {
         "team_id": "99566404852189289",
         "name": "Beijing JDG Intel Esports Club",
         "rank": 2,
-        "Strength": 1845.7723173712986
-    },
-    {
-        "team_id": "99566404579461230",
-        "name": "kt Rolster",
-        "rank": 3,
-        "Strength": 1726.5828224789113
+        "Strength": 1866.0152182838428
     },
     {
         "team_id": "99566404850008779",
         "name": "Suzhou LNG Esports",
+        "rank": 3,
+        "Strength": 1717.1316032810628
+    },
+    {
+        "team_id": "99566404579461230",
+        "name": "kt Rolster",
         "rank": 4,
-        "Strength": 1698.9265273078927
+        "Strength": 1707.4754282080587
     },
     {
         "team_id": "98767991853197861",
         "name": "T1",
         "rank": 5,
-        "Strength": 1650.9279129354552
+        "Strength": 1637.4318837166127
     },
     {
         "team_id": "99566404853854212",
         "name": "Bilibili Gaming Pingan Bank",
         "rank": 6,
-        "Strength": 1616.2911186504155
-    },
-    {
-        "team_id": "100205573496804586",
-        "name": "Hanwha Life Esports",
-        "rank": 7,
-        "Strength": 1568.2318273284081
+        "Strength": 1546.780284716449
     },
     {
         "team_id": "99566404853058754",
         "name": "WeiboGaming FAW AUDI",
+        "rank": 7,
+        "Strength": 1534.7514326501203
+    },
+    {
+        "team_id": "100205573496804586",
+        "name": "Hanwha Life Esports",
         "rank": 8,
-        "Strength": 1525.8207561021854
-    },
-    {
-        "team_id": "100725845018863243",
-        "name": "Dplus Kia",
-        "rank": 9,
-        "Strength": 1514.0451506695672
-    },
-    {
-        "team_id": "99566404854685458",
-        "name": "TOP ESPORTS",
-        "rank": 10,
-        "Strength": 1451.0767161997444
-    },
-    {
-        "team_id": "104367068120825486",
-        "name": "PSG Talon",
-        "rank": 11,
-        "Strength": 1449.6442375682952
-    },
-    {
-        "team_id": "98767991926151025",
-        "name": "G2 Esports",
-        "rank": 12,
-        "Strength": 1445.4979096743073
-    },
-    {
-        "team_id": "98767991882270868",
-        "name": "SHANGHAI EDWARD GAMING HYCAN",
-        "rank": 13,
-        "Strength": 1394.9332364277266
+        "Strength": 1507.1514370949678
     },
     {
         "team_id": "102235771678061291",
         "name": "DenizBank \u0130stanbul Wildcats",
-        "rank": 14,
-        "Strength": 1363.5297851329597
+        "rank": 9,
+        "Strength": 1504.7621030010505
     },
     {
-        "team_id": "99566404585387054",
-        "name": "DRX",
-        "rank": 15,
-        "Strength": 1351.835082470272
+        "team_id": "104367068120825486",
+        "name": "PSG Talon",
+        "rank": 10,
+        "Strength": 1458.9423684672117
     },
     {
-        "team_id": "100725845022060229",
-        "name": "Liiv SANDBOX",
-        "rank": 17,
-        "Strength": 1325.8901977915934
-    },
-    {
-        "team_id": "98767991877340524",
-        "name": "Cloud9",
-        "rank": 18,
-        "Strength": 1317.0805116570164
-    },
-    {
-        "team_id": "107700199633958891",
-        "name": "CTBC Flying Oyster",
-        "rank": 19,
-        "Strength": 1307.9622966227807
-    },
-    {
-        "team_id": "98767991892579754",
-        "name": "Royal Never Give Up",
-        "rank": 20,
-        "Strength": 1307.9563912765086
-    },
-    {
-        "team_id": "106269804045322803",
-        "name": "Beyond Gaming",
-        "rank": 21,
-        "Strength": 1304.986463355452
-    },
-    {
-        "team_id": "105505619546859895",
-        "name": "OKSavingsBank BRION",
-        "rank": 22,
-        "Strength": 1304.123578124786
-    },
-    {
-        "team_id": "106972778172351142",
-        "name": "NRG",
-        "rank": 23,
-        "Strength": 1300.6876041023859
-    },
-    {
-        "team_id": "105515219038427019",
-        "name": "Karmine Corp",
-        "rank": 24,
-        "Strength": 1298.3384341398016
-    },
-    {
-        "team_id": "102747101565183056",
-        "name": "NongShim REDFORCE",
-        "rank": 25,
-        "Strength": 1291.4371137184078
+        "team_id": "98767991926151025",
+        "name": "G2 Esports",
+        "rank": 11,
+        "Strength": 1444.9400338577432
     },
     {
         "team_id": "105536918475957734",
         "name": "Macko Esports",
-        "rank": 27,
-        "Strength": 1287.5652929894927
+        "rank": 12,
+        "Strength": 1440.3047114590356
     },
     {
-        "team_id": "105504044166670507",
-        "name": "Unicorns of Love Sexy Edition",
-        "rank": 28,
-        "Strength": 1286.1467913159318
-    },
-    {
-        "team_id": "103935468920814040",
-        "name": "Team GO",
-        "rank": 30,
-        "Strength": 1274.056288727605
+        "team_id": "100725845018863243",
+        "name": "Dplus Kia",
+        "rank": 13,
+        "Strength": 1439.3451859232953
     },
     {
         "team_id": "105559480124455983",
         "name": "SK Gaming Prime",
-        "rank": 31,
-        "Strength": 1272.4372896896612
+        "rank": 14,
+        "Strength": 1426.4936580191818
     },
     {
-        "team_id": "107581759470356115",
-        "name": "Saprissa Esports",
-        "rank": 32,
-        "Strength": 1269.2924443401134
+        "team_id": "99566404854685458",
+        "name": "TOP ESPORTS",
+        "rank": 15,
+        "Strength": 1422.5770595139436
+    },
+    {
+        "team_id": "98767991882270868",
+        "name": "SHANGHAI EDWARD GAMING HYCAN",
+        "rank": 16,
+        "Strength": 1399.7903044629725
+    },
+    {
+        "team_id": "103935468920814040",
+        "name": "Team GO",
+        "rank": 17,
+        "Strength": 1379.3740827581503
+    },
+    {
+        "team_id": "105515219038427019",
+        "name": "Karmine Corp",
+        "rank": 18,
+        "Strength": 1375.8768254537422
+    },
+    {
+        "team_id": "103877625775457850",
+        "name": "Movistar Riders",
+        "rank": 19,
+        "Strength": 1365.7465066572497
+    },
+    {
+        "team_id": "105504044166670507",
+        "name": "Unicorns of Love Sexy Edition",
+        "rank": 20,
+        "Strength": 1343.0681528157206
+    },
+    {
+        "team_id": "102787200134790084",
+        "name": "HMA Fnatic Rising",
+        "rank": 21,
+        "Strength": 1339.7867659269223
+    },
+    {
+        "team_id": "107700199633958891",
+        "name": "CTBC Flying Oyster",
+        "rank": 23,
+        "Strength": 1312.0073124445942
+    },
+    {
+        "team_id": "98767991935149427",
+        "name": "Movistar R7",
+        "rank": 24,
+        "Strength": 1306.6265421601634
+    },
+    {
+        "team_id": "106269804045322803",
+        "name": "Beyond Gaming",
+        "rank": 25,
+        "Strength": 1306.564331517165
+    },
+    {
+        "team_id": "102787200151698443",
+        "name": "Vitality.Bee",
+        "rank": 26,
+        "Strength": 1303.72747234012
+    },
+    {
+        "team_id": "99566404585387054",
+        "name": "DRX",
+        "rank": 27,
+        "Strength": 1290.4402560944282
+    },
+    {
+        "team_id": "105514907449611976",
+        "name": "Team BDS Academy",
+        "rank": 28,
+        "Strength": 1286.6111913163936
+    },
+    {
+        "team_id": "105519746234964687",
+        "name": "Dusty",
+        "rank": 29,
+        "Strength": 1284.2184546964445
+    },
+    {
+        "team_id": "106972778172351142",
+        "name": "NRG",
+        "rank": 30,
+        "Strength": 1281.6237522457307
     },
     {
         "team_id": "105397404796640412",
         "name": "LOUD",
-        "rank": 33,
-        "Strength": 1248.083319814257
+        "rank": 31,
+        "Strength": 1280.791687871555
     },
     {
         "team_id": "103877675241047720",
         "name": "LDLC OL",
         "rank": 34,
-        "Strength": 1242.9650694285392
+        "Strength": 1274.099988872263
     },
     {
-        "team_id": "102787200151698443",
-        "name": "Vitality.Bee",
+        "team_id": "107581759470356115",
+        "name": "Saprissa Esports",
         "rank": 35,
-        "Strength": 1242.0458801497164
+        "Strength": 1272.8040816213206
     },
     {
-        "team_id": "102787200134790084",
-        "name": "HMA Fnatic Rising",
+        "team_id": "98767991877340524",
+        "name": "Cloud9",
         "rank": 36,
-        "Strength": 1239.3897228029493
+        "Strength": 1269.7826970239814
     },
     {
-        "team_id": "105514907449611976",
-        "name": "Team BDS Academy",
+        "team_id": "107450819235010833",
+        "name": "BK ROG Esports",
         "rank": 37,
-        "Strength": 1239.2151654541062
+        "Strength": 1269.2433603651275
     },
     {
-        "team_id": "98767991935149427",
-        "name": "Movistar R7",
+        "team_id": "107423075317119707",
+        "name": "X7",
         "rank": 38,
-        "Strength": 1237.5323868498247
-    },
-    {
-        "team_id": "107760667929003738",
-        "name": "Frank Esports",
-        "rank": 39,
-        "Strength": 1236.5061361821984
-    },
-    {
-        "team_id": "103877625775457850",
-        "name": "Movistar Riders",
-        "rank": 40,
-        "Strength": 1235.0870510842701
-    },
-    {
-        "team_id": "98767991954244555",
-        "name": "GAM Esports",
-        "rank": 41,
-        "Strength": 1225.5686555187585
-    },
-    {
-        "team_id": "99566405130451785",
-        "name": "Cloud9 Challengers",
-        "rank": 42,
-        "Strength": 1221.5209774681744
+        "Strength": 1255.360345241447
     },
     {
         "team_id": "99566404855553726",
         "name": "FunPlus Phoenix",
+        "rank": 39,
+        "Strength": 1253.4897833954522
+    },
+    {
+        "team_id": "102747101565183056",
+        "name": "NongShim REDFORCE",
+        "rank": 40,
+        "Strength": 1248.9181405933596
+    },
+    {
+        "team_id": "100725845022060229",
+        "name": "Liiv SANDBOX",
+        "rank": 41,
+        "Strength": 1248.3097771755356
+    },
+    {
+        "team_id": "105505619546859895",
+        "name": "OKSavingsBank BRION",
+        "rank": 42,
+        "Strength": 1244.5109436134762
+    },
+    {
+        "team_id": "98767991892579754",
+        "name": "Royal Never Give Up",
         "rank": 43,
-        "Strength": 1219.6009522727759
+        "Strength": 1232.4153568008785
     },
     {
-        "team_id": "107467803833323099",
-        "name": "Los Heretics",
+        "team_id": "107760667929003738",
+        "name": "Frank Esports",
         "rank": 44,
-        "Strength": 1211.500911575835
+        "Strength": 1231.3076404101605
     },
     {
-        "team_id": "99566404581868574",
-        "name": "Kwangdong Freecs",
+        "team_id": "98767991954244555",
+        "name": "GAM Esports",
         "rank": 45,
-        "Strength": 1200.9995802446138
+        "Strength": 1230.3083020889167
     },
     {
-        "team_id": "99294153824386385",
-        "name": "Golden Guardians",
+        "team_id": "105514967858969605",
+        "name": "GameWard",
         "rank": 46,
-        "Strength": 1194.6277511072021
+        "Strength": 1225.2242076391392
     },
     {
         "team_id": "102787200136756173",
         "name": "Berlin International Gaming",
         "rank": 47,
-        "Strength": 1189.0308214840597
+        "Strength": 1219.866228054227
+    },
+    {
+        "team_id": "107467803833323099",
+        "name": "Los Heretics",
+        "rank": 48,
+        "Strength": 1219.6800230838799
     },
     {
         "team_id": "103935446548920777",
         "name": "Misfits Premier",
-        "rank": 48,
-        "Strength": 1184.2738181717468
-    },
-    {
-        "team_id": "107423075317119707",
-        "name": "X7",
         "rank": 49,
-        "Strength": 1181.4088293225227
-    },
-    {
-        "team_id": "105519746234964687",
-        "name": "Dusty",
-        "rank": 50,
-        "Strength": 1174.8683551904205
-    },
-    {
-        "team_id": "105514967858969605",
-        "name": "GameWard",
-        "rank": 51,
-        "Strength": 1174.7613029035126
-    },
-    {
-        "team_id": "100285330168091787",
-        "name": "DetonatioN FocusMe",
-        "rank": 52,
-        "Strength": 1169.572475438741
-    },
-    {
-        "team_id": "107581765633427097",
-        "name": "Fuego",
-        "rank": 53,
-        "Strength": 1169.1208997897143
-    },
-    {
-        "team_id": "110428362822825796",
-        "name": "Disguised",
-        "rank": 54,
-        "Strength": 1168.8054385516803
-    },
-    {
-        "team_id": "103461966981927044",
-        "name": "Dignitas Challengers",
-        "rank": 55,
-        "Strength": 1168.7122273565499
-    },
-    {
-        "team_id": "103935530333072898",
-        "name": "AGO Rogue",
-        "rank": 56,
-        "Strength": 1167.7643758954364
-    },
-    {
-        "team_id": "98767991866488695",
-        "name": "Fnatic",
-        "rank": 57,
-        "Strength": 1167.7267108787448
-    },
-    {
-        "team_id": "109674814051390025",
-        "name": "Primate",
-        "rank": 58,
-        "Strength": 1164.4454744188886
-    },
-    {
-        "team_id": "107563714667537640",
-        "name": "Team BDS",
-        "rank": 59,
-        "Strength": 1162.2169339648526
-    },
-    {
-        "team_id": "99566405124618295",
-        "name": "Team Liquid Honda Challengers",
-        "rank": 60,
-        "Strength": 1161.9937095516848
-    },
-    {
-        "team_id": "98926509885559666",
-        "name": "Team Liquid Honda",
-        "rank": 61,
-        "Strength": 1160.7186478220274
-    },
-    {
-        "team_id": "108159917648031455",
-        "name": "UST Esports",
-        "rank": 62,
-        "Strength": 1159.8845216935697
-    },
-    {
-        "team_id": "107450819235010833",
-        "name": "BK ROG Esports",
-        "rank": 63,
-        "Strength": 1155.486829597529
-    },
-    {
-        "team_id": "107598788926820994",
-        "name": "Macro Pampas",
-        "rank": 64,
-        "Strength": 1152.9893638340573
-    },
-    {
-        "team_id": "109696126554266494",
-        "name": "Geekay Esports",
-        "rank": 65,
-        "Strength": 1149.7828258798831
-    },
-    {
-        "team_id": "107603600826620492",
-        "name": "Zeus Kralik",
-        "rank": 66,
-        "Strength": 1149.5871906980492
+        "Strength": 1218.2522042347603
     },
     {
         "team_id": "105593951536470384",
         "name": "GTZ Esports",
-        "rank": 67,
-        "Strength": 1146.6747753749182
-    },
-    {
-        "team_id": "105521706535388095",
-        "name": "Anorthosis Famagusta Esports",
-        "rank": 68,
-        "Strength": 1145.9301442945907
-    },
-    {
-        "team_id": "99566408217955692",
-        "name": "paiN Gaming",
-        "rank": 69,
-        "Strength": 1145.0736854693569
-    },
-    {
-        "team_id": "105550026570060790",
-        "name": "DK Challengers",
-        "rank": 70,
-        "Strength": 1144.622592805854
-    },
-    {
-        "team_id": "106827832203113865",
-        "name": "SHG Academy",
-        "rank": 71,
-        "Strength": 1144.1404957699747
-    },
-    {
-        "team_id": "102787200149928963",
-        "name": "WLGaming Esports",
-        "rank": 72,
-        "Strength": 1140.0941144677402
-    },
-    {
-        "team_id": "109800832177252614",
-        "name": "Orbit Anonymo",
-        "rank": 73,
-        "Strength": 1139.1963338697303
-    },
-    {
-        "team_id": "107575082591536093",
-        "name": "Entropiq",
-        "rank": 74,
-        "Strength": 1136.4162224894756
-    },
-    {
-        "team_id": "109981650516317055",
-        "name": "Mirage Alliance",
-        "rank": 75,
-        "Strength": 1135.8366076793352
-    },
-    {
-        "team_id": "99566405126602853",
-        "name": "FlyQuest Challengers",
-        "rank": 76,
-        "Strength": 1134.1491459845954
-    },
-    {
-        "team_id": "105550054006182911",
-        "name": "NONGSHIM ESPORTS ACADEMY",
-        "rank": 77,
-        "Strength": 1133.3736309007045
-    },
-    {
-        "team_id": "102787200126663579",
-        "name": "Giants",
-        "rank": 78,
-        "Strength": 1128.1551797610414
-    },
-    {
-        "team_id": "105549998884468136",
-        "name": "paiN Academy",
-        "rank": 79,
-        "Strength": 1125.8103865428307
-    },
-    {
-        "team_id": "99566405128626825",
-        "name": "100 Thieves Challengers",
-        "rank": 81,
-        "Strength": 1125.7248196003345
-    },
-    {
-        "team_id": "99566406493155041",
-        "name": "Machi Esports",
-        "rank": 82,
-        "Strength": 1125.4224148501924
-    },
-    {
-        "team_id": "105553606349477427",
-        "name": "Zero Tenacity",
-        "rank": 83,
-        "Strength": 1125.0733357091829
-    },
-    {
-        "team_id": "107251295460371069",
-        "name": "Team Secret",
-        "rank": 84,
-        "Strength": 1124.8456307578235
-    },
-    {
-        "team_id": "103461966965149786",
-        "name": "MAD Lions",
-        "rank": 85,
-        "Strength": 1123.431112389886
-    },
-    {
-        "team_id": "103535282158162659",
-        "name": "DenizBank \u0130stanbul Wildcats Akademi",
-        "rank": 86,
-        "Strength": 1121.4715957600627
-    },
-    {
-        "team_id": "107416483509696259",
-        "name": "Eintracht Spandau",
-        "rank": 87,
-        "Strength": 1121.2602857705667
+        "rank": 50,
+        "Strength": 1216.9377069226282
     },
     {
         "team_id": "107467834753797729",
         "name": "Bisons",
-        "rank": 88,
-        "Strength": 1119.4299393038157
+        "rank": 51,
+        "Strength": 1210.5304068480327
     },
     {
-        "team_id": "109669678317817381",
-        "name": "FUT ESPORTS",
-        "rank": 89,
-        "Strength": 1118.8579654190644
+        "team_id": "99566405130451785",
+        "name": "Cloud9 Challengers",
+        "rank": 52,
+        "Strength": 1207.303304256678
+    },
+    {
+        "team_id": "109800832177252614",
+        "name": "Orbit Anonymo",
+        "rank": 53,
+        "Strength": 1205.3718093274927
+    },
+    {
+        "team_id": "109674814051390025",
+        "name": "Primate",
+        "rank": 54,
+        "Strength": 1198.006597942507
     },
     {
         "team_id": "109523293035238887",
         "name": "Aegis",
-        "rank": 90,
-        "Strength": 1116.1213164557169
-    },
-    {
-        "team_id": "106827827857159558",
-        "name": "V3 Academy",
-        "rank": 91,
-        "Strength": 1116.0973951737885
-    },
-    {
-        "team_id": "104710354840711661",
-        "name": "Riddle Esports",
-        "rank": 92,
-        "Strength": 1115.6583238596595
-    },
-    {
-        "team_id": "99566406490127625",
-        "name": "J Team",
-        "rank": 93,
-        "Strength": 1115.3682592336552
-    },
-    {
-        "team_id": "104841890701948065",
-        "name": "Estral Esports",
-        "rank": 94,
-        "Strength": 1115.3446238205997
-    },
-    {
-        "team_id": "108352305932141947",
-        "name": "DSYRE",
-        "rank": 95,
-        "Strength": 1113.095471228569
-    },
-    {
-        "team_id": "107700204561086446",
-        "name": "Deep Cross Gaming",
-        "rank": 96,
-        "Strength": 1112.5787342418741
-    },
-    {
-        "team_id": "108361552741927561",
-        "name": "Cincinnati Fear",
-        "rank": 97,
-        "Strength": 1112.4532744245935
-    },
-    {
-        "team_id": "105515345386578249",
-        "name": "Solary",
-        "rank": 98,
-        "Strength": 1112.3902252605008
-    },
-    {
-        "team_id": "99566404848691211",
-        "name": "Invictus Gaming",
-        "rank": 99,
-        "Strength": 1110.471738454451
-    },
-    {
-        "team_id": "102787200120306562",
-        "name": "Mousesports",
-        "rank": 100,
-        "Strength": 1110.0220995626894
+        "rank": 55,
+        "Strength": 1197.7716115436149
     },
     {
         "team_id": "106301891501674861",
         "name": "PDW",
-        "rank": 101,
-        "Strength": 1107.7346434561025
+        "rank": 56,
+        "Strength": 1194.7704284276736
     },
     {
-        "team_id": "98767991846127102",
-        "name": "ahq eSports Club",
-        "rank": 102,
-        "Strength": 1106.394963452585
+        "team_id": "105515345386578249",
+        "name": "Solary",
+        "rank": 57,
+        "Strength": 1193.4885674089073
     },
     {
-        "team_id": "105549988405523871",
-        "name": "Flamengo Academy",
-        "rank": 103,
-        "Strength": 1105.413796448215
+        "team_id": "108352305932141947",
+        "name": "DSYRE",
+        "rank": 58,
+        "Strength": 1190.8539427927003
     },
     {
-        "team_id": "105550033967461806",
-        "name": "DRX Challengers",
-        "rank": 104,
-        "Strength": 1105.1112193112322
+        "team_id": "107581765633427097",
+        "name": "Fuego",
+        "rank": 59,
+        "Strength": 1183.052941126432
     },
     {
-        "team_id": "105536643047197642",
-        "name": "NASR ESPORTS",
-        "rank": 105,
-        "Strength": 1104.298814287586
+        "team_id": "109696126554266494",
+        "name": "Geekay Esports",
+        "rank": 60,
+        "Strength": 1183.0229792680952
     },
     {
-        "team_id": "103535282119620510",
-        "name": "Fukuoka SoftBank HAWKS gaming",
-        "rank": 106,
-        "Strength": 1103.9893958499647
+        "team_id": "103935530333072898",
+        "name": "AGO Rogue",
+        "rank": 61,
+        "Strength": 1181.8659226239633
     },
     {
-        "team_id": "107423109717243380",
-        "name": "Bifrost",
-        "rank": 107,
-        "Strength": 1100.77972903005
+        "team_id": "102787200126663579",
+        "name": "Giants",
+        "rank": 62,
+        "Strength": 1179.8899927879447
     },
     {
-        "team_id": "108404211655217274",
-        "name": "Partizan Esports",
-        "rank": 108,
-        "Strength": 1098.9852472441248
+        "team_id": "105553606349477427",
+        "name": "Zero Tenacity",
+        "rank": 63,
+        "Strength": 1176.7698253283204
     },
     {
-        "team_id": "107582157086477662",
-        "name": "Descuydado Aucas Esports",
-        "rank": 109,
-        "Strength": 1098.8556306910968
+        "team_id": "102787200149928963",
+        "name": "WLGaming Esports",
+        "rank": 64,
+        "Strength": 1175.1995809222324
     },
     {
-        "team_id": "107581284487120142",
-        "name": "Six Karma",
-        "rank": 110,
-        "Strength": 1097.9386605625527
-    },
-    {
-        "team_id": "107422385694193066",
-        "name": "Bar\u00e7a Esports",
-        "rank": 111,
-        "Strength": 1096.8517079723606
-    },
-    {
-        "team_id": "108203154514683518",
-        "name": "T1 Rookies",
-        "rank": 112,
-        "Strength": 1096.1898576007852
-    },
-    {
-        "team_id": "99566408221961358",
-        "name": "RED Kalunga",
-        "rank": 113,
-        "Strength": 1092.0441522087385
+        "team_id": "107575082591536093",
+        "name": "Entropiq",
+        "rank": 65,
+        "Strength": 1175.11371921027
     },
     {
         "team_id": "104710369093939895",
         "name": "SuppUp eSports",
-        "rank": 114,
-        "Strength": 1091.9516453204692
+        "rank": 66,
+        "Strength": 1173.9484008040638
     },
     {
-        "team_id": "99566404846951820",
-        "name": "LGD GAMING",
-        "rank": 115,
-        "Strength": 1090.0517384514583
+        "team_id": "104710354840711661",
+        "name": "Riddle Esports",
+        "rank": 67,
+        "Strength": 1173.671714287035
     },
     {
-        "team_id": "106827844148688268",
-        "name": "SG Academy",
-        "rank": 116,
-        "Strength": 1085.80240206365
+        "team_id": "109669678317817381",
+        "name": "FUT ESPORTS",
+        "rank": 68,
+        "Strength": 1173.2611994752463
     },
     {
-        "team_id": "101383793572656373",
-        "name": "EXCEL",
-        "rank": 117,
-        "Strength": 1085.406491681789
+        "team_id": "98767991866488695",
+        "name": "Fnatic",
+        "rank": 69,
+        "Strength": 1172.6847414154286
     },
     {
-        "team_id": "107467794614674479",
-        "name": "FnaticTQ",
-        "rank": 118,
-        "Strength": 1085.2237183803516
+        "team_id": "105521706535388095",
+        "name": "Anorthosis Famagusta Esports",
+        "rank": 70,
+        "Strength": 1171.5952618363933
     },
     {
-        "team_id": "107597875833524424",
-        "name": "Diamant Esports",
-        "rank": 119,
-        "Strength": 1084.4056001930753
+        "team_id": "107416483509696259",
+        "name": "Eintracht Spandau",
+        "rank": 71,
+        "Strength": 1165.7469328120453
     },
     {
-        "team_id": "104710316579222193",
-        "name": "G2 Arctic",
-        "rank": 120,
-        "Strength": 1084.0073426277627
+        "team_id": "107563714667537640",
+        "name": "Team BDS",
+        "rank": 72,
+        "Strength": 1163.494043959971
     },
     {
-        "team_id": "109783023470714128",
-        "name": "Team Tony Top",
-        "rank": 121,
-        "Strength": 1083.5937941386587
+        "team_id": "105536643047197642",
+        "name": "NASR ESPORTS",
+        "rank": 73,
+        "Strength": 1158.288644404352
     },
     {
-        "team_id": "102787200155434012",
-        "name": "JD|XL",
-        "rank": 122,
-        "Strength": 1081.4643452398964
+        "team_id": "103461966981927044",
+        "name": "Dignitas Challengers",
+        "rank": 74,
+        "Strength": 1156.0720160716323
     },
     {
-        "team_id": "103963753080578719",
-        "name": "CrowCrowd Moscow",
-        "rank": 123,
-        "Strength": 1081.0980509620604
+        "team_id": "100285330168091787",
+        "name": "DetonatioN FocusMe",
+        "rank": 75,
+        "Strength": 1155.9601575816578
     },
     {
-        "team_id": "103935523328473675",
-        "name": "K1CK Neosurf",
-        "rank": 124,
-        "Strength": 1078.7261024150232
+        "team_id": "99566408217955692",
+        "name": "paiN Gaming",
+        "rank": 76,
+        "Strength": 1153.7881814363864
     },
     {
-        "team_id": "104270958001747936",
-        "name": "One Breath Gaming",
-        "rank": 126,
-        "Strength": 1075.9268534014095
+        "team_id": "99566405124618295",
+        "name": "Team Liquid Honda Challengers",
+        "rank": 77,
+        "Strength": 1152.2668130966035
     },
     {
-        "team_id": "107599156601411192",
-        "name": "Movistar Optix",
-        "rank": 127,
-        "Strength": 1075.6597182469436
+        "team_id": "110428362822825796",
+        "name": "Disguised",
+        "rank": 78,
+        "Strength": 1147.2635305162178
     },
     {
-        "team_id": "105913221137618666",
-        "name": "No Org",
-        "rank": 128,
-        "Strength": 1074.6314407851803
+        "team_id": "99294153824386385",
+        "name": "Golden Guardians",
+        "rank": 79,
+        "Strength": 1146.9165484254781
+    },
+    {
+        "team_id": "107598788926820994",
+        "name": "Macro Pampas",
+        "rank": 80,
+        "Strength": 1145.7808613037482
     },
     {
         "team_id": "107467827374313054",
         "name": "Finetwork KOI",
-        "rank": 129,
-        "Strength": 1071.2604804503446
+        "rank": 81,
+        "Strength": 1145.6914452251046
     },
     {
-        "team_id": "106269818143576465",
-        "name": "BOOM Esports",
-        "rank": 130,
-        "Strength": 1069.8014705069256
+        "team_id": "107597875833524424",
+        "name": "Diamant Esports",
+        "rank": 82,
+        "Strength": 1144.8758629721162
     },
     {
-        "team_id": "105550049871017396",
-        "name": "kt Challengers",
-        "rank": 131,
-        "Strength": 1069.7343406279983
+        "team_id": "107603600826620492",
+        "name": "Zeus Kralik",
+        "rank": 83,
+        "Strength": 1143.9324911209371
     },
     {
-        "team_id": "107598683861013570",
-        "name": "Boca Juniors Gaming",
-        "rank": 132,
-        "Strength": 1069.463334514257
+        "team_id": "107423109717243380",
+        "name": "Bifrost",
+        "rank": 84,
+        "Strength": 1143.7804290381653
     },
     {
-        "team_id": "109485335453835911",
-        "name": "Vivo Keyd Stars Academy",
-        "rank": 133,
-        "Strength": 1069.2540579834392
+        "team_id": "105550026570060790",
+        "name": "DK Challengers",
+        "rank": 85,
+        "Strength": 1143.7548031083447
     },
     {
-        "team_id": "108159996371573462",
-        "name": "Maryville University",
-        "rank": 134,
-        "Strength": 1068.970523996244
+        "team_id": "107422385694193066",
+        "name": "Bar\u00e7a Esports",
+        "rank": 86,
+        "Strength": 1141.0055806452858
     },
     {
-        "team_id": "107564167676290839",
-        "name": "Rebels",
-        "rank": 135,
-        "Strength": 1066.943686353831
+        "team_id": "106827832203113865",
+        "name": "SHG Academy",
+        "rank": 87,
+        "Strength": 1137.9767330357197
     },
     {
-        "team_id": "105520077508552574",
-        "name": "Tricked Esport",
-        "rank": 136,
-        "Strength": 1065.7650823257638
+        "team_id": "104841890701948065",
+        "name": "Estral Esports",
+        "rank": 88,
+        "Strength": 1134.4040311605804
     },
     {
-        "team_id": "108203164850614211",
-        "name": "NS REDFORCE Academy",
-        "rank": 137,
-        "Strength": 1065.6416922535761
-    },
-    {
-        "team_id": "109637393694097670",
-        "name": "Team Heretics",
-        "rank": 138,
-        "Strength": 1065.5945070102364
-    },
-    {
-        "team_id": "99322214689444546",
-        "name": "Schalke 04 Esports",
-        "rank": 139,
-        "Strength": 1065.5084847565997
-    },
-    {
-        "team_id": "108159968741268165",
-        "name": "Converse University",
-        "rank": 140,
-        "Strength": 1064.1679263835276
-    },
-    {
-        "team_id": "101428372605353526",
-        "name": "Sengoku Gaming",
-        "rank": 141,
-        "Strength": 1063.5076637832742
+        "team_id": "105550054006182911",
+        "name": "NONGSHIM ESPORTS ACADEMY",
+        "rank": 89,
+        "Strength": 1131.9974700212313
     },
     {
         "team_id": "107565493716773932",
         "name": "Nativz",
-        "rank": 142,
-        "Strength": 1063.4446475078093
+        "rank": 90,
+        "Strength": 1131.381399077189
     },
     {
-        "team_id": "108121047955658273",
-        "name": "Aurelius Esports",
-        "rank": 143,
-        "Strength": 1061.8531288917504
+        "team_id": "107251295460371069",
+        "name": "Team Secret",
+        "rank": 91,
+        "Strength": 1131.1000298457045
+    },
+    {
+        "team_id": "107581284487120142",
+        "name": "Six Karma",
+        "rank": 92,
+        "Strength": 1124.518124510976
+    },
+    {
+        "team_id": "108404211655217274",
+        "name": "Partizan Esports",
+        "rank": 93,
+        "Strength": 1124.3101084955254
+    },
+    {
+        "team_id": "99566405126602853",
+        "name": "FlyQuest Challengers",
+        "rank": 94,
+        "Strength": 1124.2923803316553
+    },
+    {
+        "team_id": "109981650516317055",
+        "name": "Mirage Alliance",
+        "rank": 95,
+        "Strength": 1122.5269914744954
+    },
+    {
+        "team_id": "103535282158162659",
+        "name": "DenizBank \u0130stanbul Wildcats Akademi",
+        "rank": 96,
+        "Strength": 1121.9378815725343
+    },
+    {
+        "team_id": "108159917648031455",
+        "name": "UST Esports",
+        "rank": 97,
+        "Strength": 1121.7318401304756
+    },
+    {
+        "team_id": "98926509885559666",
+        "name": "Team Liquid Honda",
+        "rank": 98,
+        "Strength": 1120.3093255546632
+    },
+    {
+        "team_id": "105549998884468136",
+        "name": "paiN Academy",
+        "rank": 99,
+        "Strength": 1118.0929296502413
+    },
+    {
+        "team_id": "99566405128626825",
+        "name": "100 Thieves Challengers",
+        "rank": 100,
+        "Strength": 1116.1287572110718
+    },
+    {
+        "team_id": "105520077508552574",
+        "name": "Tricked Esport",
+        "rank": 101,
+        "Strength": 1114.2482761244462
+    },
+    {
+        "team_id": "104710316579222193",
+        "name": "G2 Arctic",
+        "rank": 102,
+        "Strength": 1113.900383735245
+    },
+    {
+        "team_id": "99566404848691211",
+        "name": "Invictus Gaming",
+        "rank": 103,
+        "Strength": 1112.7880428474896
+    },
+    {
+        "team_id": "107564167676290839",
+        "name": "Rebels",
+        "rank": 104,
+        "Strength": 1112.3321717365798
+    },
+    {
+        "team_id": "103461966965149786",
+        "name": "MAD Lions",
+        "rank": 105,
+        "Strength": 1111.1273479795525
     },
     {
         "team_id": "107597870621708485",
         "name": "Cyber Wolves Esports",
-        "rank": 144,
-        "Strength": 1061.3873370073702
+        "rank": 106,
+        "Strength": 1110.9894459542872
     },
     {
-        "team_id": "103877756742242918",
-        "name": "Racoon",
-        "rank": 145,
-        "Strength": 1060.428697905122
+        "team_id": "106827827857159558",
+        "name": "V3 Academy",
+        "rank": 107,
+        "Strength": 1110.2963619002758
     },
     {
-        "team_id": "102787200132955066",
-        "name": "FTW Esports",
-        "rank": 146,
-        "Strength": 1059.1113445719516
+        "team_id": "98767991846127102",
+        "name": "ahq eSports Club",
+        "rank": 108,
+        "Strength": 1109.9814234685887
     },
     {
-        "team_id": "109642680932009857",
-        "name": "Nord Esports",
-        "rank": 147,
-        "Strength": 1059.0032421531557
+        "team_id": "105550033967461806",
+        "name": "DRX Challengers",
+        "rank": 109,
+        "Strength": 1104.8190196285277
+    },
+    {
+        "team_id": "108361552741927561",
+        "name": "Cincinnati Fear",
+        "rank": 110,
+        "Strength": 1103.864095262458
+    },
+    {
+        "team_id": "99566406493155041",
+        "name": "Machi Esports",
+        "rank": 111,
+        "Strength": 1103.7533166712356
+    },
+    {
+        "team_id": "107700204561086446",
+        "name": "Deep Cross Gaming",
+        "rank": 112,
+        "Strength": 1101.393647865942
+    },
+    {
+        "team_id": "108203154514683518",
+        "name": "T1 Rookies",
+        "rank": 113,
+        "Strength": 1097.2339334647022
+    },
+    {
+        "team_id": "105549988405523871",
+        "name": "Flamengo Academy",
+        "rank": 114,
+        "Strength": 1097.2109259089812
+    },
+    {
+        "team_id": "99566406490127625",
+        "name": "J Team",
+        "rank": 116,
+        "Strength": 1095.216022035302
+    },
+    {
+        "team_id": "104270958001747936",
+        "name": "One Breath Gaming",
+        "rank": 117,
+        "Strength": 1094.5304674755437
+    },
+    {
+        "team_id": "105520796734358045",
+        "name": "Team 7AM",
+        "rank": 118,
+        "Strength": 1094.4262340057467
+    },
+    {
+        "team_id": "99566404581868574",
+        "name": "Kwangdong Freecs",
+        "rank": 119,
+        "Strength": 1093.9402027747974
+    },
+    {
+        "team_id": "103535282119620510",
+        "name": "Fukuoka SoftBank HAWKS gaming",
+        "rank": 120,
+        "Strength": 1092.9482092680942
+    },
+    {
+        "team_id": "107467794614674479",
+        "name": "FnaticTQ",
+        "rank": 121,
+        "Strength": 1092.0112658045116
     },
     {
         "team_id": "109696073114910519",
         "name": "Anubis Gaming",
-        "rank": 148,
-        "Strength": 1058.7618856556014
+        "rank": 122,
+        "Strength": 1090.3448466490293
     },
     {
-        "team_id": "98767991871709842",
-        "name": "Gambit Esports",
-        "rank": 149,
-        "Strength": 1058.629271334871
+        "team_id": "102787200155434012",
+        "name": "JD|XL",
+        "rank": 123,
+        "Strength": 1089.1365877055764
+    },
+    {
+        "team_id": "99566408221961358",
+        "name": "RED Kalunga",
+        "rank": 124,
+        "Strength": 1088.9082042610019
+    },
+    {
+        "team_id": "102787200120306562",
+        "name": "Mousesports",
+        "rank": 125,
+        "Strength": 1086.9060677490836
     },
     {
         "team_id": "109695910533747910",
         "name": "RAAD",
-        "rank": 150,
-        "Strength": 1058.5936719023198
+        "rank": 126,
+        "Strength": 1085.7646551373748
     },
     {
-        "team_id": "99566408356697119",
-        "name": "Furious Gaming",
-        "rank": 151,
-        "Strength": 1057.6983161498563
+        "team_id": "103963753080578719",
+        "name": "CrowCrowd Moscow",
+        "rank": 127,
+        "Strength": 1084.9235462202273
     },
     {
-        "team_id": "108573042084687884",
-        "name": "TEAM WHALES",
-        "rank": 152,
-        "Strength": 1056.9092761624947
+        "team_id": "99322214689444546",
+        "name": "Schalke 04 Esports",
+        "rank": 128,
+        "Strength": 1084.6256540456234
     },
     {
-        "team_id": "99566405123587075",
-        "name": "CLG Challengers",
-        "rank": 153,
-        "Strength": 1056.7642899352177
+        "team_id": "107582157086477662",
+        "name": "Descuydado Aucas Esports",
+        "rank": 129,
+        "Strength": 1083.4186536409134
     },
     {
-        "team_id": "99566405129589291",
-        "name": "Golden Guardians Challengers",
-        "rank": 154,
-        "Strength": 1055.8359791576895
+        "team_id": "109642680932009857",
+        "name": "Nord Esports",
+        "rank": 130,
+        "Strength": 1082.1155140790431
+    },
+    {
+        "team_id": "106827844148688268",
+        "name": "SG Academy",
+        "rank": 131,
+        "Strength": 1080.2810284742109
+    },
+    {
+        "team_id": "103935523328473675",
+        "name": "K1CK Neosurf",
+        "rank": 132,
+        "Strength": 1078.9420912560163
+    },
+    {
+        "team_id": "107456994699991548",
+        "name": "Atleta Esport",
+        "rank": 133,
+        "Strength": 1076.589831055785
+    },
+    {
+        "team_id": "109696092218588987",
+        "name": "Nigma Galaxy",
+        "rank": 134,
+        "Strength": 1074.961519742094
+    },
+    {
+        "team_id": "98767991949608898",
+        "name": "Fenerbah\u00e7e Espor",
+        "rank": 135,
+        "Strength": 1073.3146646686944
+    },
+    {
+        "team_id": "103877756742242918",
+        "name": "Racoon",
+        "rank": 136,
+        "Strength": 1073.0150918708923
     },
     {
         "team_id": "107581689894520368",
         "name": "Bandits Gaming",
+        "rank": 137,
+        "Strength": 1072.266151889173
+    },
+    {
+        "team_id": "98767991871709842",
+        "name": "Gambit Esports",
+        "rank": 138,
+        "Strength": 1071.8423767096572
+    },
+    {
+        "team_id": "101383793572656373",
+        "name": "EXCEL",
+        "rank": 139,
+        "Strength": 1071.2498366661805
+    },
+    {
+        "team_id": "105550049871017396",
+        "name": "kt Challengers",
+        "rank": 140,
+        "Strength": 1069.7456834196037
+    },
+    {
+        "team_id": "109485335453835911",
+        "name": "Vivo Keyd Stars Academy",
+        "rank": 141,
+        "Strength": 1069.4430953492997
+    },
+    {
+        "team_id": "107598683861013570",
+        "name": "Boca Juniors Gaming",
+        "rank": 142,
+        "Strength": 1069.2935546936185
+    },
+    {
+        "team_id": "108203164850614211",
+        "name": "NS REDFORCE Academy",
+        "rank": 143,
+        "Strength": 1067.0419625526854
+    },
+    {
+        "team_id": "109783023470714128",
+        "name": "Team Tony Top",
+        "rank": 144,
+        "Strength": 1064.632087456304
+    },
+    {
+        "team_id": "108573042084687884",
+        "name": "TEAM WHALES",
+        "rank": 145,
+        "Strength": 1064.009939667141
+    },
+    {
+        "team_id": "107599156601411192",
+        "name": "Movistar Optix",
+        "rank": 146,
+        "Strength": 1063.029810211103
+    },
+    {
+        "team_id": "105537444152141556",
+        "name": "Herbalife Real Betis",
+        "rank": 147,
+        "Strength": 1062.7437457595556
+    },
+    {
+        "team_id": "109637393694097670",
+        "name": "Team Heretics",
+        "rank": 148,
+        "Strength": 1062.3034721696467
+    },
+    {
+        "team_id": "99566408356697119",
+        "name": "Furious Gaming",
+        "rank": 150,
+        "Strength": 1061.0430993903792
+    },
+    {
+        "team_id": "99322214684939974",
+        "name": "Unicorns of Love",
+        "rank": 151,
+        "Strength": 1060.941149696742
+    },
+    {
+        "team_id": "108121047955658273",
+        "name": "Aurelius Esports",
+        "rank": 152,
+        "Strength": 1060.1405705449242
+    },
+    {
+        "team_id": "107581300297680248",
+        "name": "Zylant Esports",
+        "rank": 153,
+        "Strength": 1055.0093312266931
+    },
+    {
+        "team_id": "105913221137618666",
+        "name": "No Org",
+        "rank": 154,
+        "Strength": 1053.4046158479066
+    },
+    {
+        "team_id": "108159996371573462",
+        "name": "Maryville University",
         "rank": 155,
-        "Strength": 1054.553994646151
+        "Strength": 1050.4327321016428
     },
     {
         "team_id": "105913238372341488",
         "name": "Wildcard",
         "rank": 156,
-        "Strength": 1054.4951877775047
+        "Strength": 1050.4020103497744
     },
     {
-        "team_id": "103461966951059521",
-        "name": "Evil Geniuses LG",
+        "team_id": "108159968741268165",
+        "name": "Converse University",
         "rank": 157,
-        "Strength": 1053.424520126673
-    },
-    {
-        "team_id": "107582618156093368",
-        "name": "Incubus",
-        "rank": 158,
-        "Strength": 1053.168736435907
-    },
-    {
-        "team_id": "107581300297680248",
-        "name": "Zylant Esports",
-        "rank": 159,
-        "Strength": 1052.7318270421126
-    },
-    {
-        "team_id": "107456994699991548",
-        "name": "Atleta Esport",
-        "rank": 160,
-        "Strength": 1052.2625203299176
-    },
-    {
-        "team_id": "105520796734358045",
-        "name": "Team 7AM",
-        "rank": 161,
-        "Strength": 1051.4449452415565
-    },
-    {
-        "team_id": "103461966971048042",
-        "name": "Evil Geniuses Challengers",
-        "rank": 162,
-        "Strength": 1050.875795058619
-    },
-    {
-        "team_id": "105520786527322647",
-        "name": "KRC Genk Esports",
-        "rank": 163,
-        "Strength": 1050.8558922610118
-    },
-    {
-        "team_id": "107603548241713732",
-        "name": "Braves Rising",
-        "rank": 164,
-        "Strength": 1050.2392910668677
-    },
-    {
-        "team_id": "107580497041999074",
-        "name": "Team Ambition",
-        "rank": 165,
-        "Strength": 1049.4092838006911
-    },
-    {
-        "team_id": "108159958519099117",
-        "name": "Bay State College",
-        "rank": 166,
-        "Strength": 1048.6298735586097
-    },
-    {
-        "team_id": "107581206998502078",
-        "name": "Atheris Esports",
-        "rank": 167,
-        "Strength": 1047.762749330691
-    },
-    {
-        "team_id": "98767991940181526",
-        "name": "Misfits Gaming",
-        "rank": 168,
-        "Strength": 1047.0542124788292
-    },
-    {
-        "team_id": "103535282135552642",
-        "name": "Papara SuperMassive Blaze Akademi",
-        "rank": 169,
-        "Strength": 1044.2778238924225
-    },
-    {
-        "team_id": "105537149834356301",
-        "name": "Anc Outplayed",
-        "rank": 170,
-        "Strength": 1043.5481551207317
-    },
-    {
-        "team_id": "103535282138043022",
-        "name": "Fenerbah\u00e7e Espor Akademi",
-        "rank": 171,
-        "Strength": 1043.5102017588144
-    },
-    {
-        "team_id": "98767991949608898",
-        "name": "Fenerbah\u00e7e Espor",
-        "rank": 172,
-        "Strength": 1043.3184368316984
-    },
-    {
-        "team_id": "107582184905264520",
-        "name": "Waia Snikt",
-        "rank": 173,
-        "Strength": 1041.5186919457562
-    },
-    {
-        "team_id": "107251245690956393",
-        "name": "Saigon Buffalo Esports",
-        "rank": 174,
-        "Strength": 1041.0874565554732
-    },
-    {
-        "team_id": "102787200129022886",
-        "name": "eSuba",
-        "rank": 175,
-        "Strength": 1040.4258971090728
-    },
-    {
-        "team_id": "106857739520697600",
-        "name": "100 Next",
-        "rank": 176,
-        "Strength": 1039.6372786209147
-    },
-    {
-        "team_id": "107580483738977500",
-        "name": "Winthrop University",
-        "rank": 177,
-        "Strength": 1039.4762414586166
-    },
-    {
-        "team_id": "109696092218588987",
-        "name": "Nigma Galaxy",
-        "rank": 178,
-        "Strength": 1039.4370948211103
-    },
-    {
-        "team_id": "107582178455767077",
-        "name": "Pirate Dream",
-        "rank": 179,
-        "Strength": 1039.1724638956423
-    },
-    {
-        "team_id": "103877554248683116",
-        "name": "Schalke 04 Evolution",
-        "rank": 180,
-        "Strength": 1037.886772736677
-    },
-    {
-        "team_id": "108160026618060825",
-        "name": "UCI Esports",
-        "rank": 181,
-        "Strength": 1037.6919840489081
-    },
-    {
-        "team_id": "105357803054359120",
-        "name": "Bwipo Dream Team",
-        "rank": 182,
-        "Strength": 1037.4047284552155
-    },
-    {
-        "team_id": "103877589042434434",
-        "name": "GamerLegion",
-        "rank": 183,
-        "Strength": 1035.382405491243
-    },
-    {
-        "team_id": "110733870612047344",
-        "name": "Team Coachify",
-        "rank": 184,
-        "Strength": 1035.3359744989414
-    },
-    {
-        "team_id": "102141671185899507",
-        "name": "University of Western Ontario",
-        "rank": 185,
-        "Strength": 1033.8128055662255
+        "Strength": 1048.9926229803234
     },
     {
         "team_id": "99566408562477641",
         "name": "INFINITY",
-        "rank": 186,
-        "Strength": 1033.3585037767389
+        "rank": 158,
+        "Strength": 1048.0320657351408
     },
     {
-        "team_id": "99322214684939974",
-        "name": "Unicorns of Love",
-        "rank": 187,
-        "Strength": 1030.4358573619947
+        "team_id": "107251245690956393",
+        "name": "Saigon Buffalo Esports",
+        "rank": 159,
+        "Strength": 1047.6187926777718
     },
     {
-        "team_id": "101383793574360315",
-        "name": "KOI",
-        "rank": 188,
-        "Strength": 1029.8415742282016
+        "team_id": "105520786527322647",
+        "name": "KRC Genk Esports",
+        "rank": 160,
+        "Strength": 1047.5204937228837
     },
     {
-        "team_id": "105549997263803379",
-        "name": "LOUD Academy",
-        "rank": 189,
-        "Strength": 1029.0511937835865
+        "team_id": "107603548241713732",
+        "name": "Braves Rising",
+        "rank": 161,
+        "Strength": 1047.0248357678568
     },
     {
-        "team_id": "105532791598779236",
-        "name": "UCAM",
-        "rank": 190,
-        "Strength": 1028.8182575438968
+        "team_id": "107581206998502078",
+        "name": "Atheris Esports",
+        "rank": 162,
+        "Strength": 1047.0153922986835
     },
     {
-        "team_id": "106382545123328648",
-        "name": "Dynamo Eclot",
-        "rank": 192,
-        "Strength": 1028.1553063983902
+        "team_id": "99566405129589291",
+        "name": "Golden Guardians Challengers",
+        "rank": 163,
+        "Strength": 1045.920664716608
+    },
+    {
+        "team_id": "99566405123587075",
+        "name": "CLG Challengers",
+        "rank": 164,
+        "Strength": 1045.824372964109
+    },
+    {
+        "team_id": "109539776003058530",
+        "name": "Alior Bank Team",
+        "rank": 165,
+        "Strength": 1044.2502915000427
+    },
+    {
+        "team_id": "107580497041999074",
+        "name": "Team Ambition",
+        "rank": 166,
+        "Strength": 1043.7301276694707
+    },
+    {
+        "team_id": "103877554248683116",
+        "name": "Schalke 04 Evolution",
+        "rank": 167,
+        "Strength": 1043.5193234185067
+    },
+    {
+        "team_id": "106269818143576465",
+        "name": "BOOM Esports",
+        "rank": 168,
+        "Strength": 1043.4718909566388
+    },
+    {
+        "team_id": "108159958519099117",
+        "name": "Bay State College",
+        "rank": 169,
+        "Strength": 1042.2947145422963
     },
     {
         "team_id": "107598805167594304",
         "name": "Wap Esports",
-        "rank": 193,
-        "Strength": 1028.093281714259
+        "rank": 170,
+        "Strength": 1041.70492863271
     },
     {
-        "team_id": "109783149221216052",
-        "name": "Lit Esports",
-        "rank": 194,
-        "Strength": 1027.7759551062281
+        "team_id": "106857739520697600",
+        "name": "100 Next",
+        "rank": 171,
+        "Strength": 1040.9781129944479
+    },
+    {
+        "team_id": "103535282135552642",
+        "name": "Papara SuperMassive Blaze Akademi",
+        "rank": 172,
+        "Strength": 1040.7633691073574
+    },
+    {
+        "team_id": "103461966971048042",
+        "name": "Evil Geniuses Challengers",
+        "rank": 173,
+        "Strength": 1039.246290738745
+    },
+    {
+        "team_id": "103535282138043022",
+        "name": "Fenerbah\u00e7e Espor Akademi",
+        "rank": 174,
+        "Strength": 1039.103345368426
     },
     {
         "team_id": "99566408358330419",
         "name": "Isurus",
-        "rank": 195,
-        "Strength": 1027.5812017453297
+        "rank": 175,
+        "Strength": 1038.9198567675517
     },
     {
-        "team_id": "105537444152141556",
-        "name": "Herbalife Real Betis",
-        "rank": 196,
-        "Strength": 1027.4422964259059
+        "team_id": "108160026618060825",
+        "name": "UCI Esports",
+        "rank": 176,
+        "Strength": 1036.5000149251646
+    },
+    {
+        "team_id": "101428372605353526",
+        "name": "Sengoku Gaming",
+        "rank": 177,
+        "Strength": 1036.3159768778605
     },
     {
         "team_id": "99566406332987990",
         "name": "The Chiefs",
-        "rank": 197,
-        "Strength": 1027.0328711285997
-    },
-    {
-        "team_id": "104228817622043824",
-        "name": "The French Zoo",
-        "rank": 198,
-        "Strength": 1026.733211072286
+        "rank": 178,
+        "Strength": 1034.116525323578
     },
     {
         "team_id": "107251941920386009",
         "name": "BTS ESPORTS",
-        "rank": 199,
-        "Strength": 1026.5686673991565
+        "rank": 179,
+        "Strength": 1033.805987242071
     },
     {
-        "team_id": "101422616509070746",
-        "name": "Galatasaray Espor",
-        "rank": 200,
-        "Strength": 1025.8736418497251
+        "team_id": "105537149834356301",
+        "name": "Anc Outplayed",
+        "rank": 180,
+        "Strength": 1033.5852793654437
     },
     {
-        "team_id": "109699042809864069",
-        "name": "Vipers",
-        "rank": 201,
-        "Strength": 1024.5147657181772
+        "team_id": "102787200129022886",
+        "name": "eSuba",
+        "rank": 181,
+        "Strength": 1032.4400577129034
     },
     {
-        "team_id": "103461966975897718",
-        "name": "Immortals Progressive Challengers",
-        "rank": 202,
-        "Strength": 1024.4580633418216
+        "team_id": "107456419134134246",
+        "name": "Astralis Talent",
+        "rank": 182,
+        "Strength": 1031.8950172874897
     },
     {
-        "team_id": "108361545122797332",
-        "name": "AOE Ginger Turmeric",
-        "rank": 203,
-        "Strength": 1023.1886883312542
+        "team_id": "102787200132955066",
+        "name": "FTW Esports",
+        "rank": 183,
+        "Strength": 1030.709183357002
     },
     {
-        "team_id": "105550047979361273",
-        "name": "HLE Challengers",
-        "rank": 204,
-        "Strength": 1022.5019856970742
+        "team_id": "105532791598779236",
+        "name": "UCAM",
+        "rank": 184,
+        "Strength": 1030.4833564255928
+    },
+    {
+        "team_id": "105519977854458717",
+        "name": "Nordavind",
+        "rank": 185,
+        "Strength": 1030.2575588390775
+    },
+    {
+        "team_id": "110733870612047344",
+        "name": "Team Coachify",
+        "rank": 186,
+        "Strength": 1030.0871222254677
+    },
+    {
+        "team_id": "105357803054359120",
+        "name": "Bwipo Dream Team",
+        "rank": 187,
+        "Strength": 1028.5265800462237
+    },
+    {
+        "team_id": "107565477822627354",
+        "name": "Verdant",
+        "rank": 188,
+        "Strength": 1026.9918786876146
+    },
+    {
+        "team_id": "107580483738977500",
+        "name": "Winthrop University",
+        "rank": 189,
+        "Strength": 1026.421333675658
+    },
+    {
+        "team_id": "105549997263803379",
+        "name": "LOUD Academy",
+        "rank": 190,
+        "Strength": 1026.415022234199
+    },
+    {
+        "team_id": "102141671185899507",
+        "name": "University of Western Ontario",
+        "rank": 191,
+        "Strength": 1026.1527012688832
+    },
+    {
+        "team_id": "107582184905264520",
+        "name": "Waia Snikt",
+        "rank": 192,
+        "Strength": 1025.428372529406
     },
     {
         "team_id": "106827839261303409",
         "name": "CGA  Academy",
+        "rank": 193,
+        "Strength": 1024.807940133462
+    },
+    {
+        "team_id": "107582178455767077",
+        "name": "Pirate Dream",
+        "rank": 194,
+        "Strength": 1024.4308514759437
+    },
+    {
+        "team_id": "105550047979361273",
+        "name": "HLE Challengers",
+        "rank": 195,
+        "Strength": 1023.0294494780338
+    },
+    {
+        "team_id": "104228817622043824",
+        "name": "The French Zoo",
+        "rank": 196,
+        "Strength": 1022.9160873911396
+    },
+    {
+        "team_id": "110733864366329081",
+        "name": "Team E Turner",
+        "rank": 197,
+        "Strength": 1022.339147876739
+    },
+    {
+        "team_id": "109783149221216052",
+        "name": "Lit Esports",
+        "rank": 198,
+        "Strength": 1021.5594831213597
+    },
+    {
+        "team_id": "103935567188806885",
+        "name": "Energypot Wizards",
+        "rank": 199,
+        "Strength": 1020.9075061692229
+    },
+    {
+        "team_id": "109631326144414089",
+        "name": "19 Esports",
+        "rank": 200,
+        "Strength": 1020.5375302386053
+    },
+    {
+        "team_id": "99566404846951820",
+        "name": "LGD GAMING",
+        "rank": 201,
+        "Strength": 1020.1584032293994
+    },
+    {
+        "team_id": "108361545122797332",
+        "name": "AOE Ginger Turmeric",
+        "rank": 202,
+        "Strength": 1019.622362399081
+    },
+    {
+        "team_id": "107603554304287575",
+        "name": "King of Goats",
+        "rank": 203,
+        "Strength": 1019.2931372977623
+    },
+    {
+        "team_id": "104251016988118464",
+        "name": "Galatasaray Espor Akademi",
+        "rank": 204,
+        "Strength": 1018.9514081407365
+    },
+    {
+        "team_id": "105520819263036609",
+        "name": "The Agency",
         "rank": 205,
-        "Strength": 1021.3632644587733
+        "Strength": 1015.6879558196902
     },
     {
         "team_id": "105193481874236222",
         "name": "LCL-All-Stars",
         "rank": 206,
-        "Strength": 1020.2658165384145
+        "Strength": 1015.1526071486229
+    },
+    {
+        "team_id": "103461966975897718",
+        "name": "Immortals Progressive Challengers",
+        "rank": 207,
+        "Strength": 1014.9667622930428
     },
     {
         "team_id": "105193385417106233",
         "name": "LLA All-Stars",
         "rank": 208,
-        "Strength": 1019.7205315838
+        "Strength": 1014.8416173966447
     },
     {
         "team_id": "99124844354766222",
         "name": "PCS All-Stars",
         "rank": 209,
-        "Strength": 1019.709500349544
+        "Strength": 1014.8369609508156
     },
     {
         "team_id": "105301786369976273",
         "name": "LEC Legends",
         "rank": 210,
-        "Strength": 1019.6164241030823
+        "Strength": 1014.7841922375101
     },
     {
         "team_id": "105351835580819729",
         "name": "LCS Queue Kings",
         "rank": 211,
-        "Strength": 1019.6164241030823
+        "Strength": 1014.7841922375101
     },
     {
         "team_id": "105193571520283762",
         "name": "OPL All-Stars",
         "rank": 212,
-        "Strength": 1019.4301167627863
+        "Strength": 1014.6786054785675
     },
     {
         "team_id": "105301755072677196",
         "name": "LCK Queue Kings",
         "rank": 213,
-        "Strength": 1019.4249887221546
+        "Strength": 1014.6764000042328
     },
     {
         "team_id": "105351737774956843",
         "name": "LPL Legends",
         "rank": 214,
-        "Strength": 1019.4249887221546
-    },
-    {
-        "team_id": "104251016988118464",
-        "name": "Galatasaray Espor Akademi",
-        "rank": 215,
-        "Strength": 1019.1998790214221
-    },
-    {
-        "team_id": "103935642731826448",
-        "name": "Sector One",
-        "rank": 216,
-        "Strength": 1019.0536781235459
-    },
-    {
-        "team_id": "109981644490281844",
-        "name": "Rock Bottom Esports",
-        "rank": 217,
-        "Strength": 1018.8408399016602
-    },
-    {
-        "team_id": "105519977854458717",
-        "name": "Nordavind",
-        "rank": 218,
-        "Strength": 1018.7575865553646
+        "Strength": 1014.6764000042328
     },
     {
         "team_id": "105193554293818475",
         "name": "LJL All-Stars",
-        "rank": 219,
-        "Strength": 1018.6996967418839
+        "rank": 215,
+        "Strength": 1014.2621520050842
+    },
+    {
+        "team_id": "109981644490281844",
+        "name": "Rock Bottom Esports",
+        "rank": 216,
+        "Strength": 1014.2165782387498
     },
     {
         "team_id": "105301877841257613",
         "name": "VCS All Stars",
+        "rank": 217,
+        "Strength": 1014.2039865635909
+    },
+    {
+        "team_id": "107582618156093368",
+        "name": "Incubus",
+        "rank": 218,
+        "Strength": 1013.7684938023564
+    },
+    {
+        "team_id": "109782787975510889",
+        "name": "Native Gaming",
         "rank": 220,
-        "Strength": 1018.5950710544871
+        "Strength": 1013.4444082529963
     },
     {
-        "team_id": "107603554304287575",
-        "name": "King of Goats",
+        "team_id": "102141671181705193",
+        "name": "Michigan State University",
         "rank": 221,
-        "Strength": 1018.1038427235655
+        "Strength": 1013.3500245910478
     },
     {
-        "team_id": "109631326144414089",
-        "name": "19 Esports",
+        "team_id": "108203159356403647",
+        "name": "Kwangdong Freecs Academy",
         "rank": 222,
-        "Strength": 1017.333072628061
+        "Strength": 1012.8745191832003
     },
     {
-        "team_id": "110733864366329081",
-        "name": "Team E Turner",
-        "rank": 223,
-        "Strength": 1017.1544284067414
+        "team_id": "110418022381234710",
+        "name": "SPIKE Syndicate",
+        "rank": 224,
+        "Strength": 1012.55112239167
     },
     {
-        "team_id": "107565477822627354",
-        "name": "Verdant",
+        "team_id": "104710373370426042",
+        "name": "CR4ZY",
         "rank": 225,
-        "Strength": 1015.7931840704307
+        "Strength": 1011.8461726069644
     },
     {
-        "team_id": "109480204628225868",
-        "name": "Los Grandes",
+        "team_id": "109699042809864069",
+        "name": "Vipers",
         "rank": 226,
-        "Strength": 1012.7709552502106
+        "Strength": 1011.2756661791109
     },
     {
-        "team_id": "105520819263036609",
-        "name": "The Agency",
+        "team_id": "99566406064558732",
+        "name": "Papara SuperMassive ",
         "rank": 227,
-        "Strength": 1011.4910575623786
+        "Strength": 1011.2351582007728
     },
     {
-        "team_id": "103935567188806885",
-        "name": "Energypot Wizards",
+        "team_id": "103535282143744679",
+        "name": "Dark Passage Akademi",
         "rank": 228,
-        "Strength": 1011.0719718070443
+        "Strength": 1010.3414533089639
     },
     {
         "team_id": "110506938087991033",
         "name": "FL Academy",
         "rank": 229,
-        "Strength": 1010.9770512050264
-    },
-    {
-        "team_id": "102141671181705193",
-        "name": "Michigan State University",
-        "rank": 230,
-        "Strength": 1010.5755020331575
-    },
-    {
-        "team_id": "100205576309502431",
-        "name": "FURIA",
-        "rank": 231,
-        "Strength": 1010.3122213060985
-    },
-    {
-        "team_id": "109539776003058530",
-        "name": "Alior Bank Team",
-        "rank": 233,
-        "Strength": 1008.205762276902
-    },
-    {
-        "team_id": "103535282143744679",
-        "name": "Dark Passage Akademi",
-        "rank": 234,
-        "Strength": 1007.6126394207381
-    },
-    {
-        "team_id": "102141671183409133",
-        "name": "Maryville University",
-        "rank": 235,
-        "Strength": 1006.5421851256615
-    },
-    {
-        "team_id": "105549995617170853",
-        "name": "KaBuM! Academy",
-        "rank": 236,
-        "Strength": 1006.1790003679058
-    },
-    {
-        "team_id": "109485342651298305",
-        "name": "FLUXO Academy",
-        "rank": 237,
-        "Strength": 1006.1682379381427
-    },
-    {
-        "team_id": "99566406064558732",
-        "name": "Papara SuperMassive ",
-        "rank": 238,
-        "Strength": 1005.8542668871008
-    },
-    {
-        "team_id": "101383793569248484",
-        "name": "Astralis",
-        "rank": 239,
-        "Strength": 1005.5371807061352
-    },
-    {
-        "team_id": "106857755268998406",
-        "name": "Resolve",
-        "rank": 240,
-        "Strength": 1005.1737621193845
-    },
-    {
-        "team_id": "108203159356403647",
-        "name": "Kwangdong Freecs Academy",
-        "rank": 241,
-        "Strength": 1004.9009458332998
+        "Strength": 1009.7918897650827
     },
     {
         "team_id": "105537947396116202",
         "name": "NASR ESPORTS Akademi",
-        "rank": 242,
-        "Strength": 1004.8072567772299
+        "rank": 230,
+        "Strength": 1009.4663423324685
     },
     {
-        "team_id": "105550005698683818",
-        "name": "Liberty Academy",
-        "rank": 244,
-        "Strength": 1004.6937389507659
-    },
-    {
-        "team_id": "109782787975510889",
-        "name": "Native Gaming",
-        "rank": 245,
-        "Strength": 1004.4769069780023
+        "team_id": "106857755268998406",
+        "name": "Resolve",
+        "rank": 231,
+        "Strength": 1008.6920408985139
     },
     {
         "team_id": "106302119383559530",
         "name": "Galaxy Racer",
-        "rank": 246,
-        "Strength": 1003.9670482956108
-    },
-    {
-        "team_id": "103535282140533402",
-        "name": "Be\u015fikta\u015f Akademi",
-        "rank": 247,
-        "Strength": 1003.9587926350677
-    },
-    {
-        "team_id": "107581287168722290",
-        "name": "The Kings",
-        "rank": 248,
-        "Strength": 1003.6341759965079
-    },
-    {
-        "team_id": "107581738783262346",
-        "name": "Gravity Elite",
-        "rank": 249,
-        "Strength": 1002.9198173263043
-    },
-    {
-        "team_id": "105521408363571548",
-        "name": "Illuminar Gaming",
-        "rank": 250,
-        "Strength": 1002.5810438235536
-    },
-    {
-        "team_id": "107581750701049485",
-        "name": "Janus Esports",
-        "rank": 251,
-        "Strength": 1001.8689339761922
-    },
-    {
-        "team_id": "103743162394217975",
-        "name": "Santos HotForex",
-        "rank": 252,
-        "Strength": 1001.5519343759366
-    },
-    {
-        "team_id": "98926509892121852",
-        "name": "FlyQuest",
-        "rank": 255,
-        "Strength": 1000.4632307715402
-    },
-    {
-        "team_id": "99124844355850858",
-        "name": "LCS All-Stars",
-        "rank": 256,
-        "Strength": 1000.4549156042841
-    },
-    {
-        "team_id": "104212455500985426",
-        "name": "LEC Kings",
-        "rank": 257,
-        "Strength": 1000.1918367060927
-    },
-    {
-        "team_id": "109642690191894407",
-        "name": "Ruddy Esports",
-        "rank": 258,
-        "Strength": 1000.0274813548359
-    },
-    {
-        "team_id": "104212474149188693",
-        "name": "Altokekw Espa\u00f1ita",
-        "rank": 259,
-        "Strength": 1000.0095185334958
-    },
-    {
-        "team_id": "102787200124959636",
-        "name": "Crvena Zvezda Esports",
-        "rank": 260,
-        "Strength": 999.65810800143
-    },
-    {
-        "team_id": "99124844358677975",
-        "name": "LEC All-Stars",
-        "rank": 261,
-        "Strength": 999.5405335290749
-    },
-    {
-        "team_id": "109698757443650056",
-        "name": "Mad Kings",
-        "rank": 263,
-        "Strength": 999.1249456242684
-    },
-    {
-        "team_id": "99124844353216570",
-        "name": "LCK All-Stars",
-        "rank": 265,
-        "Strength": 998.5381486321133
-    },
-    {
-        "team_id": "107580481273119961",
-        "name": "Taco Gaming",
-        "rank": 266,
-        "Strength": 997.659976758672
-    },
-    {
-        "team_id": "107456419134134246",
-        "name": "Astralis Talent",
-        "rank": 267,
-        "Strength": 996.6683390638913
-    },
-    {
-        "team_id": "104710373370426042",
-        "name": "CR4ZY",
-        "rank": 268,
-        "Strength": 996.4445012760305
-    },
-    {
-        "team_id": "104710343016706538",
-        "name": "7more7 Pompa Team",
-        "rank": 269,
-        "Strength": 996.3421684844889
-    },
-    {
-        "team_id": "101383793567806688",
-        "name": "SK Gaming",
-        "rank": 270,
-        "Strength": 996.2595346889751
-    },
-    {
-        "team_id": "108565997404381643",
-        "name": "Tempest Gaming",
-        "rank": 271,
-        "Strength": 994.4080440714434
+        "rank": 233,
+        "Strength": 1008.0915669361544
     },
     {
         "team_id": "105519562229907355",
         "name": "Barrage Esports",
-        "rank": 272,
-        "Strength": 994.095584409856
+        "rank": 234,
+        "Strength": 1005.9064097187074
+    },
+    {
+        "team_id": "105549995617170853",
+        "name": "KaBuM! Academy",
+        "rank": 235,
+        "Strength": 1004.8018543345627
+    },
+    {
+        "team_id": "98767991940181526",
+        "name": "Misfits Gaming",
+        "rank": 236,
+        "Strength": 1004.5488538608832
+    },
+    {
+        "team_id": "107581738783262346",
+        "name": "Gravity Elite",
+        "rank": 237,
+        "Strength": 1004.3568942513333
+    },
+    {
+        "team_id": "107580481273119961",
+        "name": "Taco Gaming",
+        "rank": 238,
+        "Strength": 1004.2820388327445
+    },
+    {
+        "team_id": "109642690191894407",
+        "name": "Ruddy Esports",
+        "rank": 240,
+        "Strength": 1002.1731559293943
+    },
+    {
+        "team_id": "102141671183409133",
+        "name": "Maryville University",
+        "rank": 242,
+        "Strength": 1001.780667972232
+    },
+    {
+        "team_id": "103535282140533402",
+        "name": "Be\u015fikta\u015f Akademi",
+        "rank": 243,
+        "Strength": 1001.6582516335402
+    },
+    {
+        "team_id": "109485342651298305",
+        "name": "FLUXO Academy",
+        "rank": 244,
+        "Strength": 1001.5081834882823
+    },
+    {
+        "team_id": "105550005698683818",
+        "name": "Liberty Academy",
+        "rank": 245,
+        "Strength": 1001.1903785023021
+    },
+    {
+        "team_id": "99124844355850858",
+        "name": "LCS All-Stars",
+        "rank": 248,
+        "Strength": 1000.2593688653908
+    },
+    {
+        "team_id": "104212455500985426",
+        "name": "LEC Kings",
+        "rank": 249,
+        "Strength": 1000.1172831477083
+    },
+    {
+        "team_id": "109698757443650056",
+        "name": "Mad Kings",
+        "rank": 250,
+        "Strength": 1000.0513570142425
+    },
+    {
+        "team_id": "104212474149188693",
+        "name": "Altokekw Espa\u00f1ita",
+        "rank": 251,
+        "Strength": 1000.0146453531504
+    },
+    {
+        "team_id": "106382545123328648",
+        "name": "Dynamo Eclot",
+        "rank": 252,
+        "Strength": 999.9995286324969
+    },
+    {
+        "team_id": "103461966951059521",
+        "name": "Evil Geniuses LG",
+        "rank": 253,
+        "Strength": 999.867233198536
+    },
+    {
+        "team_id": "99124844358677975",
+        "name": "LEC All-Stars",
+        "rank": 255,
+        "Strength": 999.7387059250572
+    },
+    {
+        "team_id": "102787200124959636",
+        "name": "Crvena Zvezda Esports",
+        "rank": 256,
+        "Strength": 999.2665850276649
+    },
+    {
+        "team_id": "99124844353216570",
+        "name": "LCK All-Stars",
+        "rank": 257,
+        "Strength": 999.1540607701405
     },
     {
         "team_id": "107603544245460197",
         "name": "Ramo Awake Gaming",
-        "rank": 273,
-        "Strength": 993.6684714540291
+        "rank": 258,
+        "Strength": 996.957892662314
     },
     {
         "team_id": "110424394375218208",
         "name": "A One Man Army",
-        "rank": 274,
-        "Strength": 993.6453773798047
-    },
-    {
-        "team_id": "104234362586443283",
-        "name": "German Pingus",
-        "rank": 275,
-        "Strength": 992.7956727921672
-    },
-    {
-        "team_id": "104234144258996303",
-        "name": "POLSKA GUROM",
-        "rank": 276,
-        "Strength": 992.6062608376762
-    },
-    {
-        "team_id": "105536952747658409",
-        "name": "MKERS",
-        "rank": 277,
-        "Strength": 992.3544003803997
-    },
-    {
-        "team_id": "107582591908138922",
-        "name": "Cienciano",
-        "rank": 278,
-        "Strength": 992.3477277220375
-    },
-    {
-        "team_id": "106250732506012141",
-        "name": "Umbra Divinus Gaming",
-        "rank": 279,
-        "Strength": 991.2042724496762
-    },
-    {
-        "team_id": "107582638341246907",
-        "name": "Instinct Gaming",
-        "rank": 280,
-        "Strength": 991.1500717686637
-    },
-    {
-        "team_id": "107582609836036013",
-        "name": "Diamond Doves",
-        "rank": 281,
-        "Strength": 990.3723635954564
-    },
-    {
-        "team_id": "107598764318774383",
-        "name": "KR\u00dc Esports",
-        "rank": 282,
-        "Strength": 990.3664746141229
-    },
-    {
-        "team_id": "104211677548295324",
-        "name": "Double Crunch Team Italy",
-        "rank": 283,
-        "Strength": 990.1844219125453
-    },
-    {
-        "team_id": "102787200145472495",
-        "name": "Defusekids",
-        "rank": 284,
-        "Strength": 989.9836092272092
-    },
-    {
-        "team_id": "107580475800733004",
-        "name": "Third Party",
-        "rank": 285,
-        "Strength": 989.6580038547321
-    },
-    {
-        "team_id": "109783130654973406",
-        "name": "Godel Gamers",
-        "rank": 286,
-        "Strength": 989.5920754323871
-    },
-    {
-        "team_id": "110418022381234710",
-        "name": "SPIKE Syndicate",
-        "rank": 287,
-        "Strength": 989.4335360386871
+        "rank": 259,
+        "Strength": 996.9400339117365
     },
     {
         "team_id": "106302593752767294",
         "name": "Miners Academy",
-        "rank": 288,
-        "Strength": 989.1669092115377
+        "rank": 260,
+        "Strength": 996.4920927089988
     },
     {
-        "team_id": "107581755241449104",
-        "name": "Red Rooster",
-        "rank": 289,
-        "Strength": 988.7405440789987
+        "team_id": "103743162394217975",
+        "name": "Santos HotForex",
+        "rank": 261,
+        "Strength": 995.6221812520029
     },
     {
-        "team_id": "109782867012820172",
-        "name": "Horizon Gaming",
-        "rank": 290,
-        "Strength": 988.4115594432767
-    },
-    {
-        "team_id": "107599040773840060",
-        "name": "Meta Gaming",
-        "rank": 291,
-        "Strength": 988.2840492930277
-    },
-    {
-        "team_id": "109783124183318312",
-        "name": "University of St. Trevor",
-        "rank": 292,
-        "Strength": 988.1934244144583
+        "team_id": "108565997404381643",
+        "name": "Tempest Gaming",
+        "rank": 262,
+        "Strength": 994.8005198871454
     },
     {
         "team_id": "110733877357854829",
         "name": "Gentle Hearts Gaming",
-        "rank": 293,
-        "Strength": 988.1528533775285
+        "rank": 263,
+        "Strength": 994.6316704001003
     },
     {
-        "team_id": "107179740624168899",
-        "name": "HEET",
-        "rank": 294,
-        "Strength": 987.579587174275
+        "team_id": "107581755241449104",
+        "name": "Red Rooster",
+        "rank": 264,
+        "Strength": 994.510680319187
     },
     {
-        "team_id": "109696115986547257",
-        "name": "Fox Gaming",
-        "rank": 295,
-        "Strength": 987.5172703174816
+        "team_id": "101422616509070746",
+        "name": "Galatasaray Espor",
+        "rank": 265,
+        "Strength": 994.4715965006936
     },
     {
-        "team_id": "109480056092207899",
-        "name": "FLUXO",
-        "rank": 296,
-        "Strength": 987.4466740938341
+        "team_id": "109783124183318312",
+        "name": "University of St. Trevor",
+        "rank": 266,
+        "Strength": 993.6699534041228
     },
     {
-        "team_id": "103878020539746273",
-        "name": "EGN Esports",
-        "rank": 297,
-        "Strength": 986.391308131526
+        "team_id": "104234362586443283",
+        "name": "German Pingus",
+        "rank": 267,
+        "Strength": 993.496073852929
     },
     {
-        "team_id": "109699038581250169",
-        "name": "Red Eyes Esports",
-        "rank": 298,
-        "Strength": 985.8896181342676
+        "team_id": "104234144258996303",
+        "name": "POLSKA GUROM",
+        "rank": 268,
+        "Strength": 993.3230088849207
     },
     {
-        "team_id": "108566004579728490",
-        "name": "LARGE",
-        "rank": 300,
-        "Strength": 985.599407356964
+        "team_id": "107598764318774383",
+        "name": "KR\u00dc Esports",
+        "rank": 269,
+        "Strength": 992.0125856013992
     },
     {
-        "team_id": "107582176093752697",
-        "name": "Hooked Esports",
-        "rank": 301,
-        "Strength": 985.5972520696826
-    },
-    {
-        "team_id": "110534741480867943",
-        "name": "Teamless Revenge",
-        "rank": 302,
-        "Strength": 985.5506168296488
-    },
-    {
-        "team_id": "105549993449477104",
-        "name": "INTZ Academy",
-        "rank": 303,
-        "Strength": 985.4510288043521
-    },
-    {
-        "team_id": "105957640798249312",
-        "name": "Barrage.NA",
-        "rank": 304,
-        "Strength": 985.3082005854975
-    },
-    {
-        "team_id": "109631610813971977",
-        "name": "Mezexis Esports",
-        "rank": 306,
-        "Strength": 984.5527538341586
-    },
-    {
-        "team_id": "110534749775658790",
-        "name": "The Cheese Chasers",
-        "rank": 307,
-        "Strength": 984.5279053296107
-    },
-    {
-        "team_id": "108361570687544399",
-        "name": "Jake's Kittens",
-        "rank": 308,
-        "Strength": 984.2759480046882
-    },
-    {
-        "team_id": "107580444745581889",
-        "name": "Immortals AOE",
-        "rank": 309,
-        "Strength": 984.2037957370403
-    },
-    {
-        "team_id": "107580499570181349",
-        "name": "Wildcard Aces",
-        "rank": 310,
-        "Strength": 984.1306490757223
-    },
-    {
-        "team_id": "105594135137147298",
-        "name": "White Dragons",
-        "rank": 311,
-        "Strength": 983.932845577675
-    },
-    {
-        "team_id": "99322214695067838",
-        "name": "Team Vitality",
-        "rank": 312,
-        "Strength": 983.4913695525922
-    },
-    {
-        "team_id": "106371141659311452",
-        "name": "Valiance PRO GAME",
-        "rank": 313,
-        "Strength": 982.921784457424
-    },
-    {
-        "team_id": "106300533256999014",
-        "name": "Starlan Gaming Club",
-        "rank": 314,
-        "Strength": 982.9088064662395
-    },
-    {
-        "team_id": "107953988302037900",
-        "name": "Maryville Saints",
-        "rank": 315,
-        "Strength": 982.9079694375419
-    },
-    {
-        "team_id": "110534724851488577",
-        "name": "Froggy Five",
-        "rank": 316,
-        "Strength": 982.6782229509513
-    },
-    {
-        "team_id": "108361537886099513",
-        "name": "300",
-        "rank": 317,
-        "Strength": 982.6121183848544
-    },
-    {
-        "team_id": "106857724782292541",
-        "name": "C9 Amateur",
-        "rank": 318,
-        "Strength": 981.3985179099575
-    },
-    {
-        "team_id": "103877976717529187",
-        "name": "Intrepid Fox Gaming",
-        "rank": 319,
-        "Strength": 981.3906263166477
+        "team_id": "100205576309502431",
+        "name": "FURIA",
+        "rank": 270,
+        "Strength": 991.4776110019251
     },
     {
         "team_id": "107582169874155554",
         "name": "God's Plan",
-        "rank": 320,
-        "Strength": 981.2300023269406
+        "rank": 271,
+        "Strength": 991.2416490315906
     },
     {
-        "team_id": "105301791701328923",
-        "name": "LEC Queue Kings",
-        "rank": 321,
-        "Strength": 980.5750112778454
+        "team_id": "107581750701049485",
+        "name": "Janus Esports",
+        "rank": 272,
+        "Strength": 991.2059310643984
+    },
+    {
+        "team_id": "110534749775658790",
+        "name": "The Cheese Chasers",
+        "rank": 273,
+        "Strength": 991.105797534797
+    },
+    {
+        "team_id": "107582638341246907",
+        "name": "Instinct Gaming",
+        "rank": 274,
+        "Strength": 990.9389496518128
+    },
+    {
+        "team_id": "109631610813971977",
+        "name": "Mezexis Esports",
+        "rank": 275,
+        "Strength": 990.7961991463326
+    },
+    {
+        "team_id": "109783130654973406",
+        "name": "Godel Gamers",
+        "rank": 276,
+        "Strength": 990.3844852721783
+    },
+    {
+        "team_id": "104211677548295324",
+        "name": "Double Crunch Team Italy",
+        "rank": 277,
+        "Strength": 990.1596925041226
+    },
+    {
+        "team_id": "107580475800733004",
+        "name": "Third Party",
+        "rank": 278,
+        "Strength": 989.63071682161
+    },
+    {
+        "team_id": "107582591908138922",
+        "name": "Cienciano",
+        "rank": 279,
+        "Strength": 988.3347853542923
+    },
+    {
+        "team_id": "109782867012820172",
+        "name": "Horizon Gaming",
+        "rank": 280,
+        "Strength": 988.3078354172949
+    },
+    {
+        "team_id": "105957640798249312",
+        "name": "Barrage.NA",
+        "rank": 281,
+        "Strength": 988.2822556258154
+    },
+    {
+        "team_id": "107179740624168899",
+        "name": "HEET",
+        "rank": 282,
+        "Strength": 988.091805034346
+    },
+    {
+        "team_id": "107580499570181349",
+        "name": "Wildcard Aces",
+        "rank": 283,
+        "Strength": 987.7692864563605
+    },
+    {
+        "team_id": "108361570687544399",
+        "name": "Jake's Kittens",
+        "rank": 284,
+        "Strength": 987.752786397733
+    },
+    {
+        "team_id": "109480204628225868",
+        "name": "Los Grandes",
+        "rank": 286,
+        "Strength": 987.6454510511935
+    },
+    {
+        "team_id": "102141671182557163",
+        "name": "Redbird Esports",
+        "rank": 287,
+        "Strength": 987.5384508656782
+    },
+    {
+        "team_id": "107580444745581889",
+        "name": "Immortals AOE",
+        "rank": 288,
+        "Strength": 987.1653469782975
+    },
+    {
+        "team_id": "107953988302037900",
+        "name": "Maryville Saints",
+        "rank": 291,
+        "Strength": 986.7400254203106
+    },
+    {
+        "team_id": "105515109012592449",
+        "name": "IZIDREAM",
+        "rank": 294,
+        "Strength": 986.3146488145734
+    },
+    {
+        "team_id": "107598878262940546",
+        "name": "Malvinas Rise",
+        "rank": 296,
+        "Strength": 986.2672758331464
+    },
+    {
+        "team_id": "109696115986547257",
+        "name": "Fox Gaming",
+        "rank": 297,
+        "Strength": 985.9953503361847
+    },
+    {
+        "team_id": "108566004579728490",
+        "name": "LARGE",
+        "rank": 298,
+        "Strength": 985.920323113843
+    },
+    {
+        "team_id": "106857724782292541",
+        "name": "C9 Amateur",
+        "rank": 299,
+        "Strength": 985.7787202614484
+    },
+    {
+        "team_id": "107582176093752697",
+        "name": "Hooked Esports",
+        "rank": 300,
+        "Strength": 985.5964867943268
     },
     {
         "team_id": "105352091319919029",
         "name": "LCS Legends",
-        "rank": 322,
-        "Strength": 980.5750112778454
+        "rank": 301,
+        "Strength": 985.3235999957672
     },
     {
-        "team_id": "105550059790656435",
-        "name": "T1 Esports Academy",
-        "rank": 323,
-        "Strength": 980.4475594941272
-    },
-    {
-        "team_id": "105351724613755142",
-        "name": "LPL Queue Kings",
-        "rank": 324,
-        "Strength": 980.3835758969177
+        "team_id": "105301791701328923",
+        "name": "LEC Queue Kings",
+        "rank": 302,
+        "Strength": 985.3235999957672
     },
     {
         "team_id": "105301773561628001",
         "name": "LCK Legends",
-        "rank": 325,
-        "Strength": 980.3835758969177
+        "rank": 303,
+        "Strength": 985.2158077624899
     },
     {
-        "team_id": "108439036582886702",
-        "name": "BWE Esports",
-        "rank": 326,
-        "Strength": 980.3730596061697
-    },
-    {
-        "team_id": "105521637552587612",
-        "name": "Team Phantasma",
-        "rank": 327,
-        "Strength": 980.3300936580887
-    },
-    {
-        "team_id": "108121051709036068",
-        "name": "Polar Squad",
-        "rank": 328,
-        "Strength": 980.3208026805097
+        "team_id": "105351724613755142",
+        "name": "LPL Queue Kings",
+        "rank": 304,
+        "Strength": 985.2158077624899
     },
     {
         "team_id": "99124844362174905",
         "name": "TCL All-Stars",
-        "rank": 329,
-        "Strength": 980.1881784524423
-    },
-    {
-        "team_id": "106334802515490809",
-        "name": "Wortex",
-        "rank": 330,
-        "Strength": 980.1746415210167
+        "rank": 305,
+        "Strength": 985.1063733594192
     },
     {
         "team_id": "99124844361058275",
         "name": "CBLOL All-Stars",
-        "rank": 331,
-        "Strength": 979.8209196720396
+        "rank": 306,
+        "Strength": 984.8974761952933
     },
     {
-        "team_id": "105520824521753126",
-        "name": "PSV Esports",
+        "team_id": "110534741480867943",
+        "name": "Teamless Revenge",
+        "rank": 307,
+        "Strength": 984.7835904318817
+    },
+    {
+        "team_id": "108121051709036068",
+        "name": "Polar Squad",
+        "rank": 308,
+        "Strength": 984.3365072200997
+    },
+    {
+        "team_id": "109699038581250169",
+        "name": "Red Eyes Esports",
+        "rank": 309,
+        "Strength": 983.2880572653632
+    },
+    {
+        "team_id": "109981647134921596",
+        "name": "CCG Esports",
+        "rank": 310,
+        "Strength": 982.9964892693393
+    },
+    {
+        "team_id": "108361537886099513",
+        "name": "300",
+        "rank": 311,
+        "Strength": 982.9918675378832
+    },
+    {
+        "team_id": "109480056092207899",
+        "name": "FLUXO",
+        "rank": 312,
+        "Strength": 982.972620047722
+    },
+    {
+        "team_id": "110534724851488577",
+        "name": "Froggy Five",
+        "rank": 313,
+        "Strength": 982.8220645877726
+    },
+    {
+        "team_id": "107582609836036013",
+        "name": "Diamond Doves",
+        "rank": 314,
+        "Strength": 982.5726505920669
+    },
+    {
+        "team_id": "101383793569248484",
+        "name": "Astralis",
+        "rank": 315,
+        "Strength": 982.5608201499083
+    },
+    {
+        "team_id": "106300533256999014",
+        "name": "Starlan Gaming Club",
+        "rank": 316,
+        "Strength": 982.5467335029491
+    },
+    {
+        "team_id": "110534696811298545",
+        "name": "Apex Mission Impossible",
+        "rank": 317,
+        "Strength": 982.157620867101
+    },
+    {
+        "team_id": "104710343016706538",
+        "name": "7more7 Pompa Team",
+        "rank": 318,
+        "Strength": 981.9646487623065
+    },
+    {
+        "team_id": "105549993449477104",
+        "name": "INTZ Academy",
+        "rank": 319,
+        "Strength": 981.6666115978175
+    },
+    {
+        "team_id": "103877589042434434",
+        "name": "GamerLegion",
+        "rank": 320,
+        "Strength": 981.6268301014406
+    },
+    {
+        "team_id": "107580455322240324",
+        "name": "No Team",
+        "rank": 321,
+        "Strength": 981.2676509615978
+    },
+    {
+        "team_id": "102787200145472495",
+        "name": "Defusekids",
+        "rank": 322,
+        "Strength": 980.8462793491492
+    },
+    {
+        "team_id": "107598982142057588",
+        "name": "Cruzados Esports",
+        "rank": 323,
+        "Strength": 980.1924810586837
+    },
+    {
+        "team_id": "105550059790656435",
+        "name": "T1 Esports Academy",
+        "rank": 324,
+        "Strength": 980.087203574157
+    },
+    {
+        "team_id": "108361578564310810",
+        "name": "Team Pending",
+        "rank": 325,
+        "Strength": 979.5313301864413
+    },
+    {
+        "team_id": "103935642731826448",
+        "name": "Sector One",
+        "rank": 326,
+        "Strength": 979.2990902260069
+    },
+    {
+        "team_id": "107598785733448849",
+        "name": "River Plate Gaming",
+        "rank": 327,
+        "Strength": 978.5154424646447
+    },
+    {
+        "team_id": "105548000936710641",
+        "name": "Method2Madness",
+        "rank": 328,
+        "Strength": 978.4731202830716
+    },
+    {
+        "team_id": "105550001032913831",
+        "name": "RED Academy",
+        "rank": 329,
+        "Strength": 977.9360671568669
+    },
+    {
+        "team_id": "105957603362200620",
+        "name": "Dignitas Mirage",
+        "rank": 330,
+        "Strength": 977.2905803616826
+    },
+    {
+        "team_id": "101383793574360315",
+        "name": "KOI",
+        "rank": 331,
+        "Strength": 977.0743490098272
+    },
+    {
+        "team_id": "105913111502565010",
+        "name": "Zoos Gaming",
+        "rank": 332,
+        "Strength": 976.8986090421552
+    },
+    {
+        "team_id": "106421708401759879",
+        "name": "Black Star Gaming",
         "rank": 333,
-        "Strength": 979.4865603623566
+        "Strength": 976.8347025713324
     },
     {
         "team_id": "106857734387052095",
         "name": "AOE Gold",
         "rank": 334,
-        "Strength": 979.1884711734402
+        "Strength": 976.664728258691
     },
     {
-        "team_id": "105548000936710641",
-        "name": "Method2Madness",
+        "team_id": "103877976717529187",
+        "name": "Intrepid Fox Gaming",
         "rank": 335,
-        "Strength": 978.5452597145161
+        "Strength": 976.2963910213088
     },
     {
-        "team_id": "109981647134921596",
-        "name": "CCG Esports",
-        "rank": 336,
-        "Strength": 978.3713547772659
-    },
-    {
-        "team_id": "109676337359108345",
-        "name": "Eclipse Gaming",
+        "team_id": "106334802515490809",
+        "name": "Wortex",
         "rank": 337,
-        "Strength": 978.207111365902
-    },
-    {
-        "team_id": "103877774634323825",
-        "name": "YDN Gamers",
-        "rank": 338,
-        "Strength": 978.1762379758319
-    },
-    {
-        "team_id": "107598982142057588",
-        "name": "Cruzados Esports",
-        "rank": 339,
-        "Strength": 977.6918855141813
+        "Strength": 975.5502299333984
     },
     {
         "team_id": "105547976546505145",
         "name": "Team Infamous",
-        "rank": 341,
-        "Strength": 977.1907301779789
+        "rank": 338,
+        "Strength": 975.0136472852681
     },
     {
-        "team_id": "105550001032913831",
-        "name": "RED Academy",
-        "rank": 342,
-        "Strength": 977.1872876669544
+        "team_id": "107581296208168309",
+        "name": "Tomorrow Esports",
+        "rank": 340,
+        "Strength": 974.6432215243481
     },
     {
-        "team_id": "109485351596724390",
-        "name": "Los Grandes Academy",
-        "rank": 343,
-        "Strength": 977.0413034157895
-    },
-    {
-        "team_id": "107598712583969458",
-        "name": "EBRO",
+        "team_id": "109698026697016325",
+        "name": "Barcelona BG",
         "rank": 344,
-        "Strength": 977.0267972194762
-    },
-    {
-        "team_id": "107598785733448849",
-        "name": "River Plate Gaming",
-        "rank": 345,
-        "Strength": 977.0161786429532
-    },
-    {
-        "team_id": "102141671182557163",
-        "name": "Redbird Esports",
-        "rank": 346,
-        "Strength": 976.8163572554053
-    },
-    {
-        "team_id": "108361578564310810",
-        "name": "Team Pending",
-        "rank": 347,
-        "Strength": 975.8906990022369
-    },
-    {
-        "team_id": "98926509884398584",
-        "name": "CLG",
-        "rank": 348,
-        "Strength": 975.6819139133055
-    },
-    {
-        "team_id": "103535282148790975",
-        "name": "GALAKTICOS Akademi",
-        "rank": 351,
-        "Strength": 974.9653893101872
-    },
-    {
-        "team_id": "107416342401528388",
-        "name": "Maturalni Forsaken",
-        "rank": 352,
-        "Strength": 974.8861623906345
-    },
-    {
-        "team_id": "106421708401759879",
-        "name": "Black Star Gaming",
-        "rank": 353,
-        "Strength": 974.5236608924126
+        "Strength": 974.0732853564507
     },
     {
         "team_id": "109631614501223948",
         "name": "War Legion Esports",
-        "rank": 354,
-        "Strength": 974.0672341057771
+        "rank": 348,
+        "Strength": 973.9142576400476
+    },
+    {
+        "team_id": "105537226118106446",
+        "name": "Axolotl Esports",
+        "rank": 351,
+        "Strength": 973.637718950195
+    },
+    {
+        "team_id": "103877774634323825",
+        "name": "YDN Gamers",
+        "rank": 352,
+        "Strength": 973.3173204869444
     },
     {
         "team_id": "109981655738221109",
         "name": "Team Plink",
+        "rank": 353,
+        "Strength": 973.2759019854143
+    },
+    {
+        "team_id": "109485351596724390",
+        "name": "Los Grandes Academy",
+        "rank": 354,
+        "Strength": 973.205406375842
+    },
+    {
+        "team_id": "106371141659311452",
+        "name": "Valiance PRO GAME",
         "rank": 355,
-        "Strength": 973.9849903409969
-    },
-    {
-        "team_id": "105554088239949229",
-        "name": "x25 Esports",
-        "rank": 356,
-        "Strength": 973.2555920106026
-    },
-    {
-        "team_id": "105957603362200620",
-        "name": "Dignitas Mirage",
-        "rank": 357,
-        "Strength": 973.2246101310387
-    },
-    {
-        "team_id": "107603586980602718",
-        "name": "NOCTA",
-        "rank": 358,
-        "Strength": 973.1814993744032
-    },
-    {
-        "team_id": "99566405127798575",
-        "name": "TSM Challengers",
-        "rank": 359,
-        "Strength": 972.855968542281
+        "Strength": 973.0037967421968
     },
     {
         "team_id": "110733889090164854",
         "name": "Return of the Middlesticks",
-        "rank": 360,
-        "Strength": 972.7560036347422
+        "rank": 356,
+        "Strength": 972.6245051164341
     },
     {
-        "team_id": "105913111502565010",
-        "name": "Zoos Gaming",
+        "team_id": "109981678167856017",
+        "name": "Miracle",
+        "rank": 357,
+        "Strength": 972.5487934557449
+    },
+    {
+        "team_id": "107599112065439311",
+        "name": "Dark Horse",
+        "rank": 358,
+        "Strength": 972.5050554197753
+    },
+    {
+        "team_id": "103535282148790975",
+        "name": "GALAKTICOS Akademi",
+        "rank": 359,
+        "Strength": 972.160892497327
+    },
+    {
+        "team_id": "99566406338282437",
+        "name": "ORDER",
+        "rank": 360,
+        "Strength": 971.7836486854912
+    },
+    {
+        "team_id": "105357804699574324",
+        "name": "CoreJJ Dream Team",
         "rank": 361,
-        "Strength": 972.2033756884878
+        "Strength": 971.679198569899
     },
     {
         "team_id": "109783136441695429",
         "name": "Mirage",
         "rank": 362,
-        "Strength": 972.1934139919364
-    },
-    {
-        "team_id": "110534696811298545",
-        "name": "Apex Mission Impossible",
-        "rank": 363,
-        "Strength": 972.058465859373
-    },
-    {
-        "team_id": "107580455322240324",
-        "name": "No Team",
-        "rank": 364,
-        "Strength": 971.9117025840198
-    },
-    {
-        "team_id": "109981678167856017",
-        "name": "Miracle",
-        "rank": 366,
-        "Strength": 971.3963223691345
+        "Strength": 971.4875559521224
     },
     {
         "team_id": "107580506699777259",
         "name": "ISU Redbirds",
-        "rank": 367,
-        "Strength": 971.3206993323731
-    },
-    {
-        "team_id": "105594116005157262",
-        "name": "OFFSET Esports",
-        "rank": 368,
-        "Strength": 970.9547771029272
+        "rank": 363,
+        "Strength": 971.0668281870677
     },
     {
         "team_id": "109783160511364305",
         "name": "CB Gaming",
-        "rank": 369,
-        "Strength": 970.8779081388525
+        "rank": 364,
+        "Strength": 970.9954761292109
     },
     {
-        "team_id": "98767991959203254",
-        "name": "Team oNe e-Sports",
-        "rank": 370,
-        "Strength": 970.7744137964797
-    },
-    {
-        "team_id": "102747101562758215",
-        "name": "SeolHaeOne Prince",
-        "rank": 371,
-        "Strength": 970.5432117737698
-    },
-    {
-        "team_id": "107582641798795198",
-        "name": "Spectacled Bears",
-        "rank": 372,
-        "Strength": 970.0096631712512
-    },
-    {
-        "team_id": "107599112065439311",
-        "name": "Dark Horse",
-        "rank": 373,
-        "Strength": 969.8324091667504
+        "team_id": "107603586980602718",
+        "name": "NOCTA",
+        "rank": 365,
+        "Strength": 970.6771705962424
     },
     {
         "team_id": "110534751905120040",
         "name": "Young Buffalos",
-        "rank": 375,
-        "Strength": 969.4985965250195
-    },
-    {
-        "team_id": "110534714934488523",
-        "name": "CB Gaming",
-        "rank": 377,
-        "Strength": 967.8348495004033
-    },
-    {
-        "team_id": "107599061926073885",
-        "name": "Newstar",
-        "rank": 378,
-        "Strength": 967.7646099957811
-    },
-    {
-        "team_id": "108203161924300737",
-        "name": "DRX Academy",
-        "rank": 380,
-        "Strength": 967.4467352505429
-    },
-    {
-        "team_id": "109698026697016325",
-        "name": "Barcelona BG",
-        "rank": 381,
-        "Strength": 967.113990977621
-    },
-    {
-        "team_id": "105549991104165282",
-        "name": "FURIA Academy",
-        "rank": 384,
-        "Strength": 966.8156594129139
-    },
-    {
-        "team_id": "103535282151674574",
-        "name": "Royal Youth Akademi",
-        "rank": 386,
-        "Strength": 966.3962744382006
-    },
-    {
-        "team_id": "108078422885368642",
-        "name": "Panathinaikos Esports",
-        "rank": 391,
-        "Strength": 966.0162092047109
-    },
-    {
-        "team_id": "98767991860392497",
-        "name": "TSM",
-        "rank": 392,
-        "Strength": 965.7960724296348
-    },
-    {
-        "team_id": "109704625422425316",
-        "name": "Benelux United",
-        "rank": 393,
-        "Strength": 965.160654661835
-    },
-    {
-        "team_id": "107582598621022934",
-        "name": "Club Deportivo Municipal",
-        "rank": 394,
-        "Strength": 964.8817155221406
-    },
-    {
-        "team_id": "110492173877838150",
-        "name": "Eternal Fire",
-        "rank": 395,
-        "Strength": 964.7838641369489
-    },
-    {
-        "team_id": "108361550364038935",
-        "name": "AOE Randoms",
-        "rank": 396,
-        "Strength": 964.7094909089784
-    },
-    {
-        "team_id": "103935421249833954",
-        "name": "MAD Lions Madrid",
-        "rank": 397,
-        "Strength": 964.5356882623682
-    },
-    {
-        "team_id": "99871276356460471",
-        "name": "Griffin",
-        "rank": 398,
-        "Strength": 964.5308863223923
-    },
-    {
-        "team_id": "107598878262940546",
-        "name": "Malvinas Rise",
-        "rank": 399,
-        "Strength": 964.5147519879947
-    },
-    {
-        "team_id": "107128093558481418",
-        "name": "ZennIT",
-        "rank": 400,
-        "Strength": 964.2172062482865
-    },
-    {
-        "team_id": "107581212180071788",
-        "name": "Peek Gaming",
-        "rank": 401,
-        "Strength": 964.0305416837986
-    },
-    {
-        "team_id": "99566406338282437",
-        "name": "ORDER",
-        "rank": 402,
-        "Strength": 963.7809436702564
-    },
-    {
-        "team_id": "107581296208168309",
-        "name": "Tomorrow Esports",
-        "rank": 403,
-        "Strength": 963.6404630064932
-    },
-    {
-        "team_id": "109672446077514083",
-        "name": "The Kings Moon",
-        "rank": 404,
-        "Strength": 963.6111454586302
-    },
-    {
-        "team_id": "106827765448944398",
-        "name": "DFM Academy",
-        "rank": 405,
-        "Strength": 963.4496081960556
-    },
-    {
-        "team_id": "107581178720470377",
-        "name": "Arctic Gaming",
-        "rank": 406,
-        "Strength": 963.1165450371063
-    },
-    {
-        "team_id": "105357804699574324",
-        "name": "CoreJJ Dream Team",
-        "rank": 407,
-        "Strength": 962.9536717518145
-    },
-    {
-        "team_id": "105520781900097659",
-        "name": "4 Elements",
-        "rank": 408,
-        "Strength": 962.8350069734323
-    },
-    {
-        "team_id": "109698855806033734",
-        "name": "Universitario Esports",
-        "rank": 409,
-        "Strength": 962.3184471440211
-    },
-    {
-        "team_id": "105537226118106446",
-        "name": "Axolotl Esports",
-        "rank": 410,
-        "Strength": 961.9838094967104
-    },
-    {
-        "team_id": "110425157952111645",
-        "name": "Fourth Wall",
-        "rank": 411,
-        "Strength": 961.7901640052809
-    },
-    {
-        "team_id": "103877879209300619",
-        "name": "Vipers Inc",
-        "rank": 412,
-        "Strength": 961.4482380381438
-    },
-    {
-        "team_id": "107603566520687175",
-        "name": "Team Mayan eSports",
-        "rank": 413,
-        "Strength": 961.4433633036502
-    },
-    {
-        "team_id": "107582150625414483",
-        "name": "AceS GaminG",
-        "rank": 415,
-        "Strength": 961.3493349245348
-    },
-    {
-        "team_id": "110733881542862348",
-        "name": "Cold Hearted",
-        "rank": 416,
-        "Strength": 961.293298889624
-    },
-    {
-        "team_id": "103877908090914662",
-        "name": "Kenty",
-        "rank": 417,
-        "Strength": 960.909718370827
-    },
-    {
-        "team_id": "109783164711873455",
-        "name": "Zenigma",
-        "rank": 418,
-        "Strength": 960.5054960548824
-    },
-    {
-        "team_id": "110534712174898632",
-        "name": "Blue Otter",
-        "rank": 419,
-        "Strength": 960.4475658369619
-    },
-    {
-        "team_id": "110534732558665825",
-        "name": "Komodo",
-        "rank": 420,
-        "Strength": 960.4276908454024
-    },
-    {
-        "team_id": "107603551467692884",
-        "name": "ELR Gaming",
-        "rank": 421,
-        "Strength": 959.9113382693105
-    },
-    {
-        "team_id": "107582173169864040",
-        "name": "GeekSide Esports",
-        "rank": 422,
-        "Strength": 959.835966582266
+        "rank": 366,
+        "Strength": 969.6046304481144
     },
     {
         "team_id": "110534728305628996",
         "name": "Kelyx's Grandpa Gamers",
-        "rank": 423,
-        "Strength": 959.6142870476441
+        "rank": 368,
+        "Strength": 968.858809670491
     },
     {
-        "team_id": "109692071893352727",
-        "name": "Hell Pigs",
-        "rank": 424,
-        "Strength": 959.32333913116
+        "team_id": "106250732506012141",
+        "name": "Umbra Divinus Gaming",
+        "rank": 369,
+        "Strength": 968.7674268468741
     },
     {
-        "team_id": "108203173414485265",
-        "name": "HLE Academy",
-        "rank": 425,
-        "Strength": 959.1471506828647
+        "team_id": "103935421249833954",
+        "name": "MAD Lions Madrid",
+        "rank": 370,
+        "Strength": 968.7530831750843
     },
     {
-        "team_id": "107582613263241138",
-        "name": "Deliverance Esports",
-        "rank": 426,
-        "Strength": 958.3578882860494
+        "team_id": "107603566520687175",
+        "name": "Team Mayan eSports",
+        "rank": 371,
+        "Strength": 968.7047355688
     },
     {
-        "team_id": "108018637503819612",
-        "name": "PRO42 Esports",
-        "rank": 427,
-        "Strength": 958.233339034302
+        "team_id": "108203161924300737",
+        "name": "DRX Academy",
+        "rank": 372,
+        "Strength": 968.2859437216525
     },
     {
-        "team_id": "107581733744920199",
-        "name": "Goat Esports",
-        "rank": 428,
-        "Strength": 957.7440221685059
+        "team_id": "103878020539746273",
+        "name": "EGN Esports",
+        "rank": 373,
+        "Strength": 968.1066267676335
     },
     {
-        "team_id": "107598651997213225",
-        "name": "9z Gaming",
-        "rank": 429,
-        "Strength": 957.6016527493488
+        "team_id": "107582598621022934",
+        "name": "Club Deportivo Municipal",
+        "rank": 374,
+        "Strength": 968.0723816715376
     },
     {
-        "team_id": "107603596915629288",
-        "name": "Spirituals",
-        "rank": 430,
-        "Strength": 957.3273044954864
+        "team_id": "107416342401528388",
+        "name": "Maturalni Forsaken",
+        "rank": 375,
+        "Strength": 967.3976515871097
     },
     {
-        "team_id": "105520788833075738",
-        "name": "KV Mechelen Esports",
-        "rank": 431,
-        "Strength": 957.2838791286936
+        "team_id": "110492173877838150",
+        "name": "Eternal Fire",
+        "rank": 376,
+        "Strength": 967.062770828957
     },
     {
-        "team_id": "109698030312834058",
-        "name": "Genbu Gaming",
-        "rank": 432,
-        "Strength": 956.7829709039182
+        "team_id": "103535282151674574",
+        "name": "Royal Youth Akademi",
+        "rank": 377,
+        "Strength": 967.024621723868
     },
     {
-        "team_id": "108361565719424734",
-        "name": "DK Crew",
-        "rank": 433,
-        "Strength": 956.4223374047258
+        "team_id": "107582150625414483",
+        "name": "AceS GaminG",
+        "rank": 378,
+        "Strength": 966.8865253355483
     },
     {
-        "team_id": "106222632206917342",
-        "name": "Resolve",
-        "rank": 434,
-        "Strength": 955.5957567631827
+        "team_id": "110534714934488523",
+        "name": "CB Gaming",
+        "rank": 379,
+        "Strength": 966.6228115778024
     },
     {
-        "team_id": "105521451717484016",
-        "name": "Hive Athens EC",
-        "rank": 435,
-        "Strength": 955.2316921073046
+        "team_id": "109698855806033734",
+        "name": "Universitario Esports",
+        "rank": 380,
+        "Strength": 966.4155639605758
     },
     {
-        "team_id": "105536980594429116",
-        "name": "Romulea eSport",
-        "rank": 436,
-        "Strength": 954.6228572911422
+        "team_id": "107599061926073885",
+        "name": "Newstar",
+        "rank": 381,
+        "Strength": 965.757706879249
     },
     {
-        "team_id": "105520713962793016",
-        "name": "Granit Gaming",
-        "rank": 437,
-        "Strength": 954.1752286189146
+        "team_id": "99566405127798575",
+        "name": "TSM Challengers",
+        "rank": 382,
+        "Strength": 965.526444980917
     },
     {
-        "team_id": "99566408561605102",
-        "name": "XTEN Esports",
-        "rank": 438,
-        "Strength": 953.609809544699
+        "team_id": "105549991104165282",
+        "name": "FURIA Academy",
+        "rank": 383,
+        "Strength": 965.3884571134099
     },
     {
-        "team_id": "107582615829368757",
-        "name": "Fantasy Gaming",
-        "rank": 439,
-        "Strength": 953.2821230906264
+        "team_id": "108361550364038935",
+        "name": "AOE Randoms",
+        "rank": 384,
+        "Strength": 965.0227557883541
+    },
+    {
+        "team_id": "107598712583969458",
+        "name": "EBRO",
+        "rank": 385,
+        "Strength": 964.769192416171
     },
     {
         "team_id": "105913232697120493",
         "name": "EG Prodigies",
-        "rank": 440,
-        "Strength": 952.8019057460878
+        "rank": 386,
+        "Strength": 964.70186930751
     },
     {
-        "team_id": "107598780504331406",
-        "name": "Maycam Evolve",
-        "rank": 441,
-        "Strength": 952.5160231036731
+        "team_id": "105520781900097659",
+        "name": "4 Elements",
+        "rank": 387,
+        "Strength": 964.124688994026
     },
     {
-        "team_id": "106250729133367861",
-        "name": "Olympiacos Alimou esports",
-        "rank": 442,
-        "Strength": 951.9220635822571
+        "team_id": "108439036582886702",
+        "name": "BWE Esports",
+        "rank": 388,
+        "Strength": 963.3922354714416
     },
     {
-        "team_id": "99566406065437842",
-        "name": "Dark Passage",
-        "rank": 443,
-        "Strength": 951.5824323536777
+        "team_id": "109672446077514083",
+        "name": "The Kings Moon",
+        "rank": 389,
+        "Strength": 963.3682384076726
     },
     {
-        "team_id": "105520816474194464",
-        "name": "Dynasty",
-        "rank": 444,
-        "Strength": 951.1582556175522
+        "team_id": "107581178720470377",
+        "name": "Arctic Gaming",
+        "rank": 390,
+        "Strength": 963.0611503758238
     },
     {
-        "team_id": "109668849651338559",
-        "name": "FENNEL",
-        "rank": 445,
-        "Strength": 951.0973494886941
+        "team_id": "101383793567806688",
+        "name": "SK Gaming",
+        "rank": 391,
+        "Strength": 962.0405011594931
     },
     {
-        "team_id": "107599144012469862",
-        "name": "Maze Gaming",
-        "rank": 446,
-        "Strength": 950.4781935814085
+        "team_id": "107581287168722290",
+        "name": "The Kings",
+        "rank": 392,
+        "Strength": 961.7072490294483
     },
     {
-        "team_id": "109674808371974726",
-        "name": "Newell's Esports",
-        "rank": 447,
-        "Strength": 950.3917128322835
+        "team_id": "99566408561605102",
+        "name": "XTEN Esports",
+        "rank": 393,
+        "Strength": 961.5614237844137
     },
     {
-        "team_id": "108448995754333242",
-        "name": "webidoo Gaming",
-        "rank": 448,
-        "Strength": 950.3665719710004
+        "team_id": "110733881542862348",
+        "name": "Cold Hearted",
+        "rank": 394,
+        "Strength": 961.3552923223353
     },
     {
-        "team_id": "105532840001188717",
-        "name": "S2V Esports",
-        "rank": 449,
-        "Strength": 950.1610687439792
+        "team_id": "110534732558665825",
+        "name": "Komodo",
+        "rank": 395,
+        "Strength": 960.7896525493719
     },
     {
-        "team_id": "104710678170825211",
-        "name": "SINNERS Esports",
-        "rank": 450,
-        "Strength": 950.0945848433205
+        "team_id": "110534712174898632",
+        "name": "Blue Otter",
+        "rank": 396,
+        "Strength": 960.7222772621376
     },
     {
-        "team_id": "107599485973747723",
-        "name": "Grypciocraft Esports",
-        "rank": 451,
-        "Strength": 949.8479538910599
+        "team_id": "107598651997213225",
+        "name": "9z Gaming",
+        "rank": 397,
+        "Strength": 960.2224655119275
     },
     {
-        "team_id": "105521402545275594",
-        "name": "Gentlemen's Gaming",
-        "rank": 452,
-        "Strength": 949.6747904769355
+        "team_id": "108203173414485265",
+        "name": "HLE Academy",
+        "rank": 398,
+        "Strength": 960.143457755688
     },
     {
-        "team_id": "107423086908356081",
-        "name": "Nyyrikki",
-        "rank": 453,
-        "Strength": 948.5817924236816
+        "team_id": "107582173169864040",
+        "name": "GeekSide Esports",
+        "rank": 399,
+        "Strength": 960.1225830341548
     },
     {
-        "team_id": "110424397251619481",
-        "name": "Myth Esports",
-        "rank": 454,
-        "Strength": 947.9681180640603
+        "team_id": "109783164711873455",
+        "name": "Zenigma",
+        "rank": 400,
+        "Strength": 960.1134921283995
     },
     {
-        "team_id": "105537621677160078",
-        "name": "Team Queso",
-        "rank": 455,
-        "Strength": 947.5568840765886
+        "team_id": "107603551467692884",
+        "name": "ELR Gaming",
+        "rank": 401,
+        "Strength": 959.9337125469191
     },
     {
-        "team_id": "107693836459380354",
-        "name": "SAMPI",
-        "rank": 456,
-        "Strength": 946.7982961626572
+        "team_id": "109698030312834058",
+        "name": "Genbu Gaming",
+        "rank": 402,
+        "Strength": 959.5661384197042
     },
     {
-        "team_id": "105543843212923183",
-        "name": "Goskilla",
-        "rank": 457,
-        "Strength": 946.676914832065
+        "team_id": "106827765448944398",
+        "name": "DFM Academy",
+        "rank": 403,
+        "Strength": 959.4298348223882
     },
     {
-        "team_id": "110425005562048945",
-        "name": "Keypulse Esports",
-        "rank": 458,
-        "Strength": 946.5178290051037
+        "team_id": "108361565719424734",
+        "name": "DK Crew",
+        "rank": 404,
+        "Strength": 958.1788172861958
     },
     {
-        "team_id": "109696047948627764",
-        "name": "GNG Esports",
-        "rank": 459,
-        "Strength": 944.974906587034
+        "team_id": "108018637503819612",
+        "name": "PRO42 Esports",
+        "rank": 405,
+        "Strength": 957.8191010751823
     },
     {
-        "team_id": "108159890692353756",
-        "name": "St. Clair College",
-        "rank": 460,
-        "Strength": 944.7561471056251
+        "team_id": "105554088239949229",
+        "name": "x25 Esports",
+        "rank": 406,
+        "Strength": 957.7671544430879
     },
     {
-        "team_id": "109631541326560210",
-        "name": "Reven Esports",
-        "rank": 461,
-        "Strength": 944.5145208867112
+        "team_id": "107582613263241138",
+        "name": "Deliverance Esports",
+        "rank": 407,
+        "Strength": 957.7653808427766
     },
     {
-        "team_id": "102787200159169580",
-        "name": "Godsent",
-        "rank": 462,
-        "Strength": 944.2371402158765
+        "team_id": "107581733744920199",
+        "name": "Goat Esports",
+        "rank": 408,
+        "Strength": 957.7508213278276
     },
     {
-        "team_id": "99294153828264740",
-        "name": "100 Thieves",
-        "rank": 463,
-        "Strength": 944.1053814626464
+        "team_id": "98926509892121852",
+        "name": "FlyQuest",
+        "rank": 409,
+        "Strength": 957.7293249979298
     },
     {
-        "team_id": "105536738266035235",
-        "name": "Cyberground Gaming",
-        "rank": 464,
-        "Strength": 944.0131742972626
+        "team_id": "107128093558481418",
+        "name": "ZennIT",
+        "rank": 411,
+        "Strength": 956.9457747220177
     },
     {
         "team_id": "107251307514079872",
         "name": "LXE ESPORTS",
-        "rank": 465,
-        "Strength": 943.4660463984457
+        "rank": 412,
+        "Strength": 955.4357834472111
     },
     {
-        "team_id": "107597866344501908",
-        "name": "Auxesis Esports",
-        "rank": 466,
-        "Strength": 943.0332380525915
+        "team_id": "105594135137147298",
+        "name": "White Dragons",
+        "rank": 413,
+        "Strength": 954.8149283179171
     },
     {
-        "team_id": "109783170393931575",
-        "name": "Conviction",
-        "rank": 467,
-        "Strength": 942.9846937145813
+        "team_id": "107599040773840060",
+        "name": "Meta Gaming",
+        "rank": 414,
+        "Strength": 953.6992073397232
     },
     {
-        "team_id": "106857761435870473",
-        "name": "Supernova",
-        "rank": 468,
-        "Strength": 942.5908716608693
+        "team_id": "107581212180071788",
+        "name": "Peek Gaming",
+        "rank": 415,
+        "Strength": 953.2463477301421
     },
     {
-        "team_id": "104710682193583854",
-        "name": "Topo Centras Iron Wolves",
-        "rank": 469,
-        "Strength": 940.316816583194
+        "team_id": "98767991959203254",
+        "name": "Team oNe e-Sports",
+        "rank": 416,
+        "Strength": 953.1451602594263
     },
     {
-        "team_id": "105550042327365041",
-        "name": "Gen.G Global Academy",
-        "rank": 470,
-        "Strength": 939.9518026551215
-    },
-    {
-        "team_id": "107456284318482723",
-        "name": "Mirage-Elyandra",
-        "rank": 471,
-        "Strength": 939.6020091399187
-    },
-    {
-        "team_id": "103877925817094140",
-        "name": "PIGSPORTS",
-        "rank": 472,
-        "Strength": 939.0805863576818
-    },
-    {
-        "team_id": "106827815539026710",
-        "name": "RJ Academy",
-        "rank": 473,
-        "Strength": 939.0076744325069
-    },
-    {
-        "team_id": "107067065368380132",
-        "name": "Wild Panthers Esports",
-        "rank": 474,
-        "Strength": 938.984621262962
-    },
-    {
-        "team_id": "109697683685398040",
-        "name": "MAGAZA",
-        "rank": 475,
-        "Strength": 938.9367078997443
-    },
-    {
-        "team_id": "106295024192678387",
-        "name": "Gaia Esports",
-        "rank": 476,
-        "Strength": 938.6893560691539
-    },
-    {
-        "team_id": "103535282124208038",
-        "name": "Pentanet.GG",
-        "rank": 477,
-        "Strength": 938.5876752544555
-    },
-    {
-        "team_id": "107581209070519555",
-        "name": "Atomic Esports",
-        "rank": 478,
-        "Strength": 938.1308585599393
-    },
-    {
-        "team_id": "103535282146169523",
-        "name": "Info Yat\u0131r\u0131m Aurora Akademi",
-        "rank": 479,
-        "Strength": 937.2201595359764
-    },
-    {
-        "team_id": "105503948999800557",
-        "name": "E WIE EINFACH E-SPORTS",
-        "rank": 480,
-        "Strength": 936.6054423456438
-    },
-    {
-        "team_id": "105515109012592449",
-        "name": "IZIDREAM",
-        "rank": 481,
-        "Strength": 936.5556205856664
-    },
-    {
-        "team_id": "105521674055625312",
-        "name": "Gamespace Mediterranean College Esports",
-        "rank": 482,
-        "Strength": 935.9335654028106
-    },
-    {
-        "team_id": "108203166973601408",
-        "name": "Liiv SANDBOX Academy",
-        "rank": 483,
-        "Strength": 935.849772412241
-    },
-    {
-        "team_id": "107574959289974368",
-        "name": "Odivelas Sports Club",
-        "rank": 484,
-        "Strength": 935.1820048598003
+        "team_id": "109676337359108345",
+        "name": "Eclipse Gaming",
+        "rank": 417,
+        "Strength": 953.1321773224037
     },
     {
         "team_id": "99566408217116828",
         "name": "INTZ",
-        "rank": 485,
-        "Strength": 935.1657085252806
+        "rank": 418,
+        "Strength": 953.0632535668877
     },
     {
-        "team_id": "109539873500788632",
-        "name": "EXEED",
-        "rank": 486,
-        "Strength": 934.7346441295244
+        "team_id": "107582615829368757",
+        "name": "Fantasy Gaming",
+        "rank": 419,
+        "Strength": 952.8326447935132
     },
     {
-        "team_id": "99566406332122275",
-        "name": "Avant Gaming",
-        "rank": 487,
-        "Strength": 934.2755844707895
+        "team_id": "107603596915629288",
+        "name": "Spirituals",
+        "rank": 420,
+        "Strength": 952.5693039663435
     },
     {
-        "team_id": "102825747701670848",
-        "name": "Azules Esports",
-        "rank": 488,
-        "Strength": 932.7588497637694
+        "team_id": "107598780504331406",
+        "name": "Maycam Evolve",
+        "rank": 421,
+        "Strength": 952.3536895229807
     },
     {
-        "team_id": "108361575122450254",
-        "name": "Team Fish Taco",
-        "rank": 489,
-        "Strength": 931.8983375043395
+        "team_id": "105520816474194464",
+        "name": "Dynasty",
+        "rank": 422,
+        "Strength": 952.263110197762
     },
     {
-        "team_id": "105520822049210915",
-        "name": "mCon esports",
-        "rank": 490,
-        "Strength": 930.9202164517056
+        "team_id": "105536738266035235",
+        "name": "Cyberground Gaming",
+        "rank": 423,
+        "Strength": 952.1028822222178
     },
     {
-        "team_id": "109672618694070633",
-        "name": "Aethernum Esports",
-        "rank": 491,
-        "Strength": 930.5745328955771
+        "team_id": "108159890692353756",
+        "name": "St. Clair College",
+        "rank": 424,
+        "Strength": 950.6042275681428
     },
     {
-        "team_id": "105593129376630217",
-        "name": "Vikingekrig Esports",
-        "rank": 492,
-        "Strength": 929.8174293843426
+        "team_id": "107599144012469862",
+        "name": "Maze Gaming",
+        "rank": 425,
+        "Strength": 950.5664225138677
     },
     {
-        "team_id": "109675484017801229",
-        "name": "Team Bliss",
-        "rank": 493,
-        "Strength": 929.6196552719422
+        "team_id": "109674808371974726",
+        "name": "Newell's Esports",
+        "rank": 426,
+        "Strength": 950.2706001390918
     },
     {
-        "team_id": "105520784254806142",
-        "name": "ION SQUAD",
-        "rank": 494,
-        "Strength": 929.3296120572226
+        "team_id": "105521637552587612",
+        "name": "Team Phantasma",
+        "rank": 427,
+        "Strength": 948.0583459764617
     },
     {
-        "team_id": "105553729458550723",
-        "name": "Nexus KTRL",
-        "rank": 495,
-        "Strength": 929.2804717953067
+        "team_id": "105503948999800557",
+        "name": "E WIE EINFACH E-SPORTS",
+        "rank": 428,
+        "Strength": 946.8471582325456
     },
     {
-        "team_id": "107655539755387391",
-        "name": "Varona Esports",
-        "rank": 496,
-        "Strength": 928.9333718793995
+        "team_id": "105536952747658409",
+        "name": "MKERS",
+        "rank": 429,
+        "Strength": 945.9440468657767
     },
     {
-        "team_id": "107582181197106556",
-        "name": "Skull Cracker Clan",
-        "rank": 497,
-        "Strength": 928.1911115039458
+        "team_id": "109631541326560210",
+        "name": "Reven Esports",
+        "rank": 430,
+        "Strength": 944.2688230258699
     },
     {
-        "team_id": "99566408219409348",
-        "name": "Vivo Keyd Stars",
-        "rank": 498,
-        "Strength": 927.4699593874266
+        "team_id": "99322214695067838",
+        "name": "Team Vitality",
+        "rank": 431,
+        "Strength": 944.083230488291
     },
     {
-        "team_id": "110534700622694005",
-        "name": "Aporia",
-        "rank": 499,
-        "Strength": 927.1750151257274
-    },
-    {
-        "team_id": "108131965235538611",
-        "name": "Antares Esports",
-        "rank": 500,
-        "Strength": 926.6938272415795
-    },
-    {
-        "team_id": "107423083507599175",
-        "name": "Vanir",
-        "rank": 501,
-        "Strength": 926.6812455645219
-    },
-    {
-        "team_id": "105520826536746180",
-        "name": "Team THRLL",
-        "rank": 502,
-        "Strength": 926.6779533245392
-    },
-    {
-        "team_id": "109671413728531527",
-        "name": "Pentagon Rejects",
-        "rank": 503,
-        "Strength": 926.3022917018761
+        "team_id": "107423086908356081",
+        "name": "Nyyrikki",
+        "rank": 432,
+        "Strength": 944.0115267610312
     },
     {
         "team_id": "99124844356912967",
         "name": "LPL All-Stars",
-        "rank": 504,
-        "Strength": 925.751695965722
+        "rank": 433,
+        "Strength": 943.2785544442404
     },
     {
-        "team_id": "101428372600307248",
-        "name": "Rascal Jester",
-        "rank": 505,
-        "Strength": 925.0899713764793
+        "team_id": "109783170393931575",
+        "name": "Conviction",
+        "rank": 434,
+        "Strength": 943.140002740776
     },
     {
-        "team_id": "104710383210356454",
-        "name": "LowLandLions",
-        "rank": 506,
-        "Strength": 924.6889124157825
+        "team_id": "99566406065437842",
+        "name": "Dark Passage",
+        "rank": 435,
+        "Strength": 942.0166782549713
+    },
+    {
+        "team_id": "109704625422425316",
+        "name": "Benelux United",
+        "rank": 436,
+        "Strength": 941.1173084427029
+    },
+    {
+        "team_id": "105550042327365041",
+        "name": "Gen.G Global Academy",
+        "rank": 437,
+        "Strength": 940.1827283323553
+    },
+    {
+        "team_id": "105594116005157262",
+        "name": "OFFSET Esports",
+        "rank": 438,
+        "Strength": 939.9084207745008
+    },
+    {
+        "team_id": "106827815539026710",
+        "name": "RJ Academy",
+        "rank": 439,
+        "Strength": 939.6963931653399
+    },
+    {
+        "team_id": "105521402545275594",
+        "name": "Gentlemen's Gaming",
+        "rank": 440,
+        "Strength": 939.6901791377192
+    },
+    {
+        "team_id": "99566406332122275",
+        "name": "Avant Gaming",
+        "rank": 441,
+        "Strength": 939.6751265165002
+    },
+    {
+        "team_id": "107582181197106556",
+        "name": "Skull Cracker Clan",
+        "rank": 442,
+        "Strength": 939.3062494767332
+    },
+    {
+        "team_id": "106857761435870473",
+        "name": "Supernova",
+        "rank": 443,
+        "Strength": 938.8992461668917
+    },
+    {
+        "team_id": "109692071893352727",
+        "name": "Hell Pigs",
+        "rank": 444,
+        "Strength": 938.7701275999556
+    },
+    {
+        "team_id": "105520713962793016",
+        "name": "Granit Gaming",
+        "rank": 446,
+        "Strength": 938.1221903086932
+    },
+    {
+        "team_id": "107581209070519555",
+        "name": "Atomic Esports",
+        "rank": 447,
+        "Strength": 937.8841921872937
+    },
+    {
+        "team_id": "103535282146169523",
+        "name": "Info Yat\u0131r\u0131m Aurora Akademi",
+        "rank": 448,
+        "Strength": 937.053167520088
+    },
+    {
+        "team_id": "109675484017801229",
+        "name": "Team Bliss",
+        "rank": 449,
+        "Strength": 937.0378060913574
+    },
+    {
+        "team_id": "108203166973601408",
+        "name": "Liiv SANDBOX Academy",
+        "rank": 450,
+        "Strength": 936.958261717981
+    },
+    {
+        "team_id": "105520824521753126",
+        "name": "PSV Esports",
+        "rank": 451,
+        "Strength": 935.9268961030283
+    },
+    {
+        "team_id": "105521674055625312",
+        "name": "Gamespace Mediterranean College Esports",
+        "rank": 452,
+        "Strength": 935.1181331102265
+    },
+    {
+        "team_id": "103877879209300619",
+        "name": "Vipers Inc",
+        "rank": 453,
+        "Strength": 934.522680632131
     },
     {
         "team_id": "108203169709977541",
         "name": "BRO Academy",
-        "rank": 507,
-        "Strength": 924.5389345270862
+        "rank": 454,
+        "Strength": 934.4780345916383
     },
     {
-        "team_id": "107456355516438414",
-        "name": "Eintracht Frankfurt",
-        "rank": 508,
-        "Strength": 924.2635137509217
+        "team_id": "103535282124208038",
+        "name": "Pentanet.GG",
+        "rank": 455,
+        "Strength": 934.2802006381891
+    },
+    {
+        "team_id": "109672618694070633",
+        "name": "Aethernum Esports",
+        "rank": 456,
+        "Strength": 934.1561981816437
+    },
+    {
+        "team_id": "110425157952111645",
+        "name": "Fourth Wall",
+        "rank": 457,
+        "Strength": 933.4343510348494
+    },
+    {
+        "team_id": "105521451717484016",
+        "name": "Hive Athens EC",
+        "rank": 458,
+        "Strength": 933.3273654557066
+    },
+    {
+        "team_id": "98926509884398584",
+        "name": "CLG",
+        "rank": 459,
+        "Strength": 933.0294822497495
+    },
+    {
+        "team_id": "107456284318482723",
+        "name": "Mirage-Elyandra",
+        "rank": 460,
+        "Strength": 931.4272552138679
+    },
+    {
+        "team_id": "102825747701670848",
+        "name": "Azules Esports",
+        "rank": 461,
+        "Strength": 931.2126704251544
+    },
+    {
+        "team_id": "105521408363571548",
+        "name": "Illuminar Gaming",
+        "rank": 462,
+        "Strength": 931.134486633391
+    },
+    {
+        "team_id": "106222632206917342",
+        "name": "Resolve",
+        "rank": 463,
+        "Strength": 930.8582149004252
+    },
+    {
+        "team_id": "108078422885368642",
+        "name": "Panathinaikos Esports",
+        "rank": 464,
+        "Strength": 930.6939836711941
+    },
+    {
+        "team_id": "109696047948627764",
+        "name": "GNG Esports",
+        "rank": 465,
+        "Strength": 930.60162198968
+    },
+    {
+        "team_id": "103877908090914662",
+        "name": "Kenty",
+        "rank": 466,
+        "Strength": 930.2133169292409
+    },
+    {
+        "team_id": "106250729133367861",
+        "name": "Olympiacos Alimou esports",
+        "rank": 467,
+        "Strength": 930.1107349374862
+    },
+    {
+        "team_id": "104710678170825211",
+        "name": "SINNERS Esports",
+        "rank": 468,
+        "Strength": 928.2992333183684
+    },
+    {
+        "team_id": "105532840001188717",
+        "name": "S2V Esports",
+        "rank": 469,
+        "Strength": 928.2133817741849
+    },
+    {
+        "team_id": "105537621677160078",
+        "name": "Team Queso",
+        "rank": 470,
+        "Strength": 928.1741544756072
+    },
+    {
+        "team_id": "107597866344501908",
+        "name": "Auxesis Esports",
+        "rank": 471,
+        "Strength": 928.0429987002298
     },
     {
         "team_id": "108319669531442279",
         "name": "Aguilas Doradas",
-        "rank": 509,
-        "Strength": 924.1093991190589
+        "rank": 472,
+        "Strength": 927.8483235570811
     },
     {
-        "team_id": "105548019132871601",
-        "name": "Medieval Riga",
-        "rank": 510,
-        "Strength": 923.1802952437711
+        "team_id": "108361575122450254",
+        "name": "Team Fish Taco",
+        "rank": 473,
+        "Strength": 926.7492215037211
     },
     {
-        "team_id": "106334794714373670",
-        "name": "Goexanimo",
-        "rank": 511,
-        "Strength": 921.7726086192914
+        "team_id": "110534700622694005",
+        "name": "Aporia",
+        "rank": 474,
+        "Strength": 926.6847174227
     },
     {
-        "team_id": "105521412995449549",
-        "name": "Team ESCA Gaming",
-        "rank": 512,
-        "Strength": 920.5276597868567
+        "team_id": "108131965235538611",
+        "name": "Antares Esports",
+        "rank": 475,
+        "Strength": 926.6362329899264
     },
     {
-        "team_id": "109695924147263860",
-        "name": "Triple Esports",
-        "rank": 513,
-        "Strength": 919.9049317901005
+        "team_id": "105520826536746180",
+        "name": "Team THRLL",
+        "rank": 476,
+        "Strength": 926.6308551055631
     },
     {
-        "team_id": "105549984475833252",
-        "name": "Cruzeiro Academy",
-        "rank": 514,
-        "Strength": 919.382097581483
+        "team_id": "107574959289974368",
+        "name": "Odivelas Sports Club",
+        "rank": 477,
+        "Strength": 925.3807631597851
     },
     {
-        "team_id": "109749493607708438",
-        "name": "ENEMI3S",
-        "rank": 515,
-        "Strength": 919.0977157811926
+        "team_id": "102787200159169580",
+        "name": "Godsent",
+        "rank": 478,
+        "Strength": 923.7871327528126
     },
     {
-        "team_id": "107648168744912288",
-        "name": "DREN Esports",
-        "rank": 516,
-        "Strength": 917.5719702923653
+        "team_id": "98767991860392497",
+        "name": "TSM",
+        "rank": 479,
+        "Strength": 922.9244448444692
     },
     {
-        "team_id": "104710359142494900",
-        "name": "Samsung Morning Stars",
-        "rank": 517,
-        "Strength": 917.2572019831184
+        "team_id": "107582641798795198",
+        "name": "Spectacled Bears",
+        "rank": 480,
+        "Strength": 922.9093538540143
     },
     {
-        "team_id": "100205576307813373",
-        "name": "Flamengo ",
-        "rank": 518,
-        "Strength": 916.5430402557607
+        "team_id": "109668849651338559",
+        "name": "FENNEL",
+        "rank": 481,
+        "Strength": 922.8688803733112
     },
     {
-        "team_id": "107599188771591359",
-        "name": "Wolf Club Gaming",
-        "rank": 519,
-        "Strength": 916.0956515015715
-    },
-    {
-        "team_id": "107565448721890834",
-        "name": "Domino Esports",
-        "rank": 520,
-        "Strength": 915.6443536973234
-    },
-    {
-        "team_id": "105503778424809514",
-        "name": "EURONICS Gaming",
-        "rank": 521,
-        "Strength": 914.725625986739
+        "team_id": "99566408219409348",
+        "name": "Vivo Keyd Stars",
+        "rank": 482,
+        "Strength": 922.2943156119945
     },
     {
         "team_id": "107599174108436104",
         "name": "Rebirth Esports",
-        "rank": 522,
-        "Strength": 914.2140404504538
+        "rank": 483,
+        "Strength": 920.7229135565201
     },
     {
-        "team_id": "107597858964689090",
-        "name": "SOVEJA",
-        "rank": 523,
-        "Strength": 912.945610951165
+        "team_id": "105548019132871601",
+        "name": "Medieval Riga",
+        "rank": 484,
+        "Strength": 919.352865061319
     },
     {
-        "team_id": "107581761958954646",
-        "name": "Vandals Esports",
-        "rank": 524,
-        "Strength": 911.8671354886147
+        "team_id": "105549984475833252",
+        "name": "Cruzeiro Academy",
+        "rank": 485,
+        "Strength": 918.5554984568691
     },
     {
-        "team_id": "105536773074826367",
-        "name": "GGEsports",
-        "rank": 525,
-        "Strength": 911.2932879953314
-    },
-    {
-        "team_id": "105593182576105603",
-        "name": "BRUTE",
-        "rank": 526,
-        "Strength": 910.8173152955272
-    },
-    {
-        "team_id": "105537408539332006",
-        "name": "eMonkeyz SDH",
-        "rank": 527,
-        "Strength": 909.5546391147869
-    },
-    {
-        "team_id": "105593311172904657",
-        "name": "Eclot Gaming",
-        "rank": 528,
-        "Strength": 908.8532790214832
-    },
-    {
-        "team_id": "102787200153467923",
-        "name": "BCN Squad",
-        "rank": 529,
-        "Strength": 908.5170948166842
-    },
-    {
-        "team_id": "98767991897792379",
-        "name": "Hong Kong Attitude",
-        "rank": 530,
-        "Strength": 908.4842989717348
-    },
-    {
-        "team_id": "109539675734129088",
-        "name": "Northern Lions Esports",
-        "rank": 531,
-        "Strength": 907.1993538304612
-    },
-    {
-        "team_id": "105515266817621145",
-        "name": "Team MCES",
-        "rank": 532,
-        "Strength": 906.5364576776133
-    },
-    {
-        "team_id": "109697689430777005",
-        "name": "Ankora Gaming",
-        "rank": 533,
-        "Strength": 905.2260060921167
-    },
-    {
-        "team_id": "107110686951738484",
-        "name": "Esports Empire",
-        "rank": 534,
-        "Strength": 904.9805532751309
-    },
-    {
-        "team_id": "99566406334639907",
-        "name": "Legacy Esports",
-        "rank": 535,
-        "Strength": 904.384055327381
+        "team_id": "107599188771591359",
+        "name": "Wolf Club Gaming",
+        "rank": 486,
+        "Strength": 915.6616605994354
     },
     {
         "team_id": "107599089191671351",
         "name": "Santiago Wanderers",
-        "rank": 536,
-        "Strength": 903.9234931303936
+        "rank": 487,
+        "Strength": 912.8923270989625
     },
     {
-        "team_id": "107468079354897663",
-        "name": "Team Oplon",
-        "rank": 537,
-        "Strength": 902.6186266136302
+        "team_id": "110424397251619481",
+        "name": "Myth Esports",
+        "rank": 488,
+        "Strength": 912.8882157926324
     },
     {
-        "team_id": "104843437139220481",
-        "name": "Undead BK",
-        "rank": 538,
-        "Strength": 902.324184293625
+        "team_id": "105593182576105603",
+        "name": "BRUTE",
+        "rank": 489,
+        "Strength": 912.754436262342
     },
     {
-        "team_id": "105503848339138647",
-        "name": "PENTA 1860",
-        "rank": 539,
-        "Strength": 901.8502039474033
+        "team_id": "107581761958954646",
+        "name": "Vandals Esports",
+        "rank": 490,
+        "Strength": 911.7104975485937
+    },
+    {
+        "team_id": "107423083507599175",
+        "name": "Vanir",
+        "rank": 491,
+        "Strength": 911.1034570169317
+    },
+    {
+        "team_id": "105553729458550723",
+        "name": "Nexus KTRL",
+        "rank": 492,
+        "Strength": 910.475908976378
     },
     {
         "team_id": "107251374793416561",
         "name": "CERBERUS ESPORTS",
-        "rank": 540,
-        "Strength": 901.8270026903591
+        "rank": 493,
+        "Strength": 908.969251591917
     },
     {
-        "team_id": "109696138543579708",
-        "name": "3BL Esports",
-        "rank": 541,
-        "Strength": 900.8530469508453
+        "team_id": "104710383210356454",
+        "name": "LowLandLions",
+        "rank": 494,
+        "Strength": 908.4362704856925
     },
     {
-        "team_id": "105553684493690219",
-        "name": "Split Raiders",
-        "rank": 542,
-        "Strength": 899.9470347239034
+        "team_id": "109697683685398040",
+        "name": "MAGAZA",
+        "rank": 495,
+        "Strength": 908.2134107177505
     },
     {
-        "team_id": "109692074894483834",
-        "name": "West Point Esports",
-        "rank": 543,
-        "Strength": 899.928611282385
+        "team_id": "106295024192678387",
+        "name": "Gaia Esports",
+        "rank": 496,
+        "Strength": 907.7566535239815
     },
     {
-        "team_id": "98926509883054987",
-        "name": "Dignitas",
-        "rank": 544,
-        "Strength": 899.3719033559622
-    },
-    {
-        "team_id": "103877951616192529",
-        "name": "Cyber Gaming",
-        "rank": 545,
-        "Strength": 898.6225666421852
+        "team_id": "107693836459380354",
+        "name": "SAMPI",
+        "rank": 497,
+        "Strength": 905.753151365644
     },
     {
         "team_id": "107258254469504696",
         "name": "Team Flash",
-        "rank": 546,
-        "Strength": 898.451129208248
+        "rank": 498,
+        "Strength": 905.6485692081033
+    },
+    {
+        "team_id": "110425005562048945",
+        "name": "Keypulse Esports",
+        "rank": 499,
+        "Strength": 905.5640772397891
     },
     {
         "team_id": "107598704067400262",
         "name": "Stone Movistar",
-        "rank": 547,
-        "Strength": 898.0334443096285
+        "rank": 500,
+        "Strength": 901.6995172385552
     },
     {
-        "team_id": "103877891572305836",
-        "name": "Team Singularity",
-        "rank": 548,
-        "Strength": 897.5963717801393
+        "team_id": "108448995754333242",
+        "name": "webidoo Gaming",
+        "rank": 501,
+        "Strength": 901.1430978639739
+    },
+    {
+        "team_id": "98767991897792379",
+        "name": "Hong Kong Attitude",
+        "rank": 502,
+        "Strength": 901.0356694703395
+    },
+    {
+        "team_id": "109695924147263860",
+        "name": "Triple Esports",
+        "rank": 503,
+        "Strength": 900.32370032849
+    },
+    {
+        "team_id": "105536980594429116",
+        "name": "Romulea eSport",
+        "rank": 504,
+        "Strength": 899.7897367205762
+    },
+    {
+        "team_id": "109539873500788632",
+        "name": "EXEED",
+        "rank": 505,
+        "Strength": 897.1922178773684
+    },
+    {
+        "team_id": "104843437139220481",
+        "name": "Undead BK",
+        "rank": 506,
+        "Strength": 897.0674029627652
+    },
+    {
+        "team_id": "107599485973747723",
+        "name": "Grypciocraft Esports",
+        "rank": 507,
+        "Strength": 896.9657639364005
+    },
+    {
+        "team_id": "104710682193583854",
+        "name": "Topo Centras Iron Wolves",
+        "rank": 508,
+        "Strength": 896.8376665825577
+    },
+    {
+        "team_id": "104710359142494900",
+        "name": "Samsung Morning Stars",
+        "rank": 509,
+        "Strength": 896.7034860795906
+    },
+    {
+        "team_id": "105520784254806142",
+        "name": "ION SQUAD",
+        "rank": 510,
+        "Strength": 895.07055678669
+    },
+    {
+        "team_id": "105520822049210915",
+        "name": "mCon esports",
+        "rank": 511,
+        "Strength": 894.5089047432748
+    },
+    {
+        "team_id": "107067065368380132",
+        "name": "Wild Panthers Esports",
+        "rank": 512,
+        "Strength": 893.7199952419373
+    },
+    {
+        "team_id": "105520788833075738",
+        "name": "KV Mechelen Esports",
+        "rank": 513,
+        "Strength": 890.9433053584567
+    },
+    {
+        "team_id": "105503848339138647",
+        "name": "PENTA 1860",
+        "rank": 514,
+        "Strength": 888.2814988490347
+    },
+    {
+        "team_id": "103877925817094140",
+        "name": "PIGSPORTS",
+        "rank": 515,
+        "Strength": 886.847017666433
+    },
+    {
+        "team_id": "105515266817621145",
+        "name": "Team MCES",
+        "rank": 516,
+        "Strength": 886.120641446148
+    },
+    {
+        "team_id": "99294153828264740",
+        "name": "100 Thieves",
+        "rank": 517,
+        "Strength": 885.547364483025
+    },
+    {
+        "team_id": "107468079354897663",
+        "name": "Team Oplon",
+        "rank": 518,
+        "Strength": 885.509849052371
     },
     {
         "team_id": "103495716886587312",
         "name": "Be\u015fikta\u015f",
-        "rank": 549,
-        "Strength": 897.5126416705649
-    },
-    {
-        "team_id": "107598699275015260",
-        "name": "Leviat\u00e1n Esports",
-        "rank": 550,
-        "Strength": 895.5395824056792
-    },
-    {
-        "team_id": "106806773698472633",
-        "name": "Team Aze",
-        "rank": 551,
-        "Strength": 894.3813108392093
-    },
-    {
-        "team_id": "105519945593890595",
-        "name": "KOVA Esports",
-        "rank": 552,
-        "Strength": 890.8914730021461
-    },
-    {
-        "team_id": "108403526900459473",
-        "name": "UniQ Esports",
-        "rank": 553,
-        "Strength": 887.6767954651638
-    },
-    {
-        "team_id": "107179722233063345",
-        "name": "Cryptova",
-        "rank": 554,
-        "Strength": 887.3621900199723
-    },
-    {
-        "team_id": "107564135791716115",
-        "name": "Guasones",
-        "rank": 555,
-        "Strength": 886.6136247965885
+        "rank": 519,
+        "Strength": 884.5688826483342
     },
     {
         "team_id": "105550051809743868",
         "name": "Liiv SANDBOX Youth",
-        "rank": 556,
-        "Strength": 883.3984161316171
+        "rank": 520,
+        "Strength": 883.5474466894594
+    },
+    {
+        "team_id": "99566406334639907",
+        "name": "Legacy Esports",
+        "rank": 521,
+        "Strength": 883.0008310031704
+    },
+    {
+        "team_id": "109692074894483834",
+        "name": "West Point Esports",
+        "rank": 522,
+        "Strength": 882.0344197756166
+    },
+    {
+        "team_id": "100205576307813373",
+        "name": "Flamengo ",
+        "rank": 523,
+        "Strength": 879.2221509837873
+    },
+    {
+        "team_id": "109671413728531527",
+        "name": "Pentagon Rejects",
+        "rank": 524,
+        "Strength": 878.6767914978369
+    },
+    {
+        "team_id": "101428372600307248",
+        "name": "Rascal Jester",
+        "rank": 525,
+        "Strength": 878.5615526900754
+    },
+    {
+        "team_id": "107456355516438414",
+        "name": "Eintracht Frankfurt",
+        "rank": 526,
+        "Strength": 877.776054378988
+    },
+    {
+        "team_id": "98767991921462763",
+        "name": "Dire Wolves",
+        "rank": 527,
+        "Strength": 876.9948517825391
+    },
+    {
+        "team_id": "105503778424809514",
+        "name": "EURONICS Gaming",
+        "rank": 528,
+        "Strength": 876.0065798304986
+    },
+    {
+        "team_id": "106827848618374543",
+        "name": "BC Academy",
+        "rank": 529,
+        "Strength": 875.4079069291215
+    },
+    {
+        "team_id": "106806773698472633",
+        "name": "Team Aze",
+        "rank": 530,
+        "Strength": 875.2387349778452
+    },
+    {
+        "team_id": "105593129376630217",
+        "name": "Vikingekrig Esports",
+        "rank": 531,
+        "Strength": 873.6134672343752
+    },
+    {
+        "team_id": "107655539755387391",
+        "name": "Varona Esports",
+        "rank": 532,
+        "Strength": 872.7958053698459
+    },
+    {
+        "team_id": "109696138543579708",
+        "name": "3BL Esports",
+        "rank": 533,
+        "Strength": 872.6413793699079
+    },
+    {
+        "team_id": "105550036134585264",
+        "name": "BRO Challengers",
+        "rank": 534,
+        "Strength": 872.5909825256776
+    },
+    {
+        "team_id": "107565448721890834",
+        "name": "Domino Esports",
+        "rank": 535,
+        "Strength": 870.3735406210416
+    },
+    {
+        "team_id": "105543843212923183",
+        "name": "Goskilla",
+        "rank": 536,
+        "Strength": 870.2821706478684
     },
     {
         "team_id": "105397399468432537",
         "name": "Miners",
+        "rank": 537,
+        "Strength": 867.8796082837437
+    },
+    {
+        "team_id": "106334794714373670",
+        "name": "Goexanimo",
+        "rank": 538,
+        "Strength": 867.6492022368925
+    },
+    {
+        "team_id": "105521412995449549",
+        "name": "Team ESCA Gaming",
+        "rank": 539,
+        "Strength": 865.8240914549859
+    },
+    {
+        "team_id": "109697689430777005",
+        "name": "Ankora Gaming",
+        "rank": 540,
+        "Strength": 865.8161484769871
+    },
+    {
+        "team_id": "103535282113853330",
+        "name": "5 Ronin Akademi",
+        "rank": 541,
+        "Strength": 865.6686602097018
+    },
+    {
+        "team_id": "105550024238752685",
+        "name": "KDF Challengers",
+        "rank": 542,
+        "Strength": 865.3320025264502
+    },
+    {
+        "team_id": "102787200153467923",
+        "name": "BCN Squad",
+        "rank": 544,
+        "Strength": 862.5835906294006
+    },
+    {
+        "team_id": "107648168744912288",
+        "name": "DREN Esports",
+        "rank": 545,
+        "Strength": 862.3574706206489
+    },
+    {
+        "team_id": "99871276356460471",
+        "name": "Griffin",
+        "rank": 546,
+        "Strength": 862.3312845274661
+    },
+    {
+        "team_id": "98926509883054987",
+        "name": "Dignitas",
+        "rank": 547,
+        "Strength": 862.2150298599049
+    },
+    {
+        "team_id": "105550003470349739",
+        "name": "Rensga Academy",
+        "rank": 548,
+        "Strength": 862.0133267659942
+    },
+    {
+        "team_id": "101383792887446028",
+        "name": "MAMMOTH",
+        "rank": 549,
+        "Strength": 860.1811853594727
+    },
+    {
+        "team_id": "103877891572305836",
+        "name": "Team Singularity",
+        "rank": 550,
+        "Strength": 855.8538405599393
+    },
+    {
+        "team_id": "100289931264192378",
+        "name": "Team Spirit",
+        "rank": 551,
+        "Strength": 855.5508709788987
+    },
+    {
+        "team_id": "105503535895066182",
+        "name": "Wave Esports",
+        "rank": 552,
+        "Strength": 854.8228931810846
+    },
+    {
+        "team_id": "105553684493690219",
+        "name": "Split Raiders",
+        "rank": 553,
+        "Strength": 854.6226420198764
+    },
+    {
+        "team_id": "109539675734129088",
+        "name": "Northern Lions Esports",
+        "rank": 554,
+        "Strength": 854.5227198066103
+    },
+    {
+        "team_id": "106827823550343961",
+        "name": "AXZ Academy",
+        "rank": 555,
+        "Strength": 853.7240062578662
+    },
+    {
+        "team_id": "109671201259007744",
+        "name": "Team Liquid Honda First",
+        "rank": 556,
+        "Strength": 851.526049126953
+    },
+    {
+        "team_id": "107597858964689090",
+        "name": "SOVEJA",
         "rank": 557,
-        "Strength": 882.404713987039
+        "Strength": 851.1211468975139
     },
     {
         "team_id": "105594101461473671",
         "name": "Karma Clan Esports",
         "rank": 558,
-        "Strength": 881.6585188283551
-    },
-    {
-        "team_id": "109697686032800938",
-        "name": "XtremeDominators",
-        "rank": 559,
-        "Strength": 881.1533279957401
+        "Strength": 850.7713072717215
     },
     {
         "team_id": "106269859169658575",
         "name": "Impunity Esports",
+        "rank": 559,
+        "Strength": 850.5272996701913
+    },
+    {
+        "team_id": "105537408539332006",
+        "name": "eMonkeyz SDH",
         "rank": 560,
-        "Strength": 880.9636881460974
+        "Strength": 848.6915349623903
     },
     {
-        "team_id": "98767991921462763",
-        "name": "Dire Wolves",
+        "team_id": "107564135791716115",
+        "name": "Guasones",
         "rank": 561,
-        "Strength": 879.1984951289604
+        "Strength": 848.6660793788446
     },
     {
-        "team_id": "106371176555003349",
-        "name": "NK Osijek Esport",
+        "team_id": "109749493607708438",
+        "name": "ENEMI3S",
         "rank": 562,
-        "Strength": 878.7992889258342
+        "Strength": 846.0509203230539
     },
     {
-        "team_id": "100289931264192378",
-        "name": "Team Spirit",
+        "team_id": "105536773074826367",
+        "name": "GGEsports",
         "rank": 563,
-        "Strength": 876.8820065412255
-    },
-    {
-        "team_id": "106827848618374543",
-        "name": "BC Academy",
-        "rank": 564,
-        "Strength": 876.1523512321063
-    },
-    {
-        "team_id": "105550036134585264",
-        "name": "BRO Challengers",
-        "rank": 565,
-        "Strength": 872.798001193352
-    },
-    {
-        "team_id": "101383793195758800",
-        "name": "Redemption Porto Alegre",
-        "rank": 566,
-        "Strength": 869.6363025635123
-    },
-    {
-        "team_id": "105594176887807460",
-        "name": "EFIVE Esports",
-        "rank": 567,
-        "Strength": 869.1131273709443
-    },
-    {
-        "team_id": "99566408221114231",
-        "name": "KaBuM! Esports",
-        "rank": 568,
-        "Strength": 867.4590159967864
-    },
-    {
-        "team_id": "105550003470349739",
-        "name": "Rensga Academy",
-        "rank": 570,
-        "Strength": 867.2869763074759
+        "Strength": 844.8619589435069
     },
     {
         "team_id": "99566405944694628",
         "name": "Pixel Esports Club",
-        "rank": 571,
-        "Strength": 866.9417623683182
+        "rank": 564,
+        "Strength": 843.261468122364
     },
     {
-        "team_id": "103535282113853330",
-        "name": "5 Ronin Akademi",
-        "rank": 572,
-        "Strength": 866.4858502643258
+        "team_id": "107598699275015260",
+        "name": "Leviat\u00e1n Esports",
+        "rank": 565,
+        "Strength": 841.2906123851241
     },
     {
-        "team_id": "105550024238752685",
-        "name": "KDF Challengers",
-        "rank": 573,
-        "Strength": 865.3121545591146
+        "team_id": "103877951616192529",
+        "name": "Cyber Gaming",
+        "rank": 566,
+        "Strength": 840.7559786920999
     },
     {
-        "team_id": "105503535895066182",
-        "name": "Wave Esports",
-        "rank": 574,
-        "Strength": 863.9789446866296
-    },
-    {
-        "team_id": "107456352597333899",
-        "name": "NNO Prime",
-        "rank": 575,
-        "Strength": 862.6861649770226
+        "team_id": "106806779752531762",
+        "name": "Globant Emerald Team",
+        "rank": 567,
+        "Strength": 835.2713905222432
     },
     {
         "team_id": "104016416551172375",
         "name": "Seorabeol Gaming",
+        "rank": 568,
+        "Strength": 833.7799516643188
+    },
+    {
+        "team_id": "105519945593890595",
+        "name": "KOVA Esports",
+        "rank": 569,
+        "Strength": 830.5925738601952
+    },
+    {
+        "team_id": "105593311172904657",
+        "name": "Eclot Gaming",
+        "rank": 570,
+        "Strength": 829.2449846766299
+    },
+    {
+        "team_id": "108403526900459473",
+        "name": "UniQ Esports",
+        "rank": 571,
+        "Strength": 828.1253183587866
+    },
+    {
+        "team_id": "102747101562758215",
+        "name": "SeolHaeOne Prince",
+        "rank": 572,
+        "Strength": 827.6824149941964
+    },
+    {
+        "team_id": "101383793195758800",
+        "name": "Redemption Porto Alegre",
+        "rank": 573,
+        "Strength": 825.9350692716117
+    },
+    {
+        "team_id": "101383792559569368",
+        "name": "All Knights",
+        "rank": 574,
+        "Strength": 825.5688028355262
+    },
+    {
+        "team_id": "107179722233063345",
+        "name": "Cryptova",
+        "rank": 575,
+        "Strength": 825.2922167389718
+    },
+    {
+        "team_id": "107110686951738484",
+        "name": "Esports Empire",
         "rank": 576,
-        "Strength": 860.6956617821476
+        "Strength": 822.2163161445612
     },
     {
         "team_id": "103963715924353674",
         "name": "Dragon Army",
         "rank": 577,
-        "Strength": 856.0937529219477
+        "Strength": 817.6156278347219
     },
     {
-        "team_id": "106827823550343961",
-        "name": "AXZ Academy",
+        "team_id": "99566406066182955",
+        "name": "GALAKTICOS",
         "rank": 578,
-        "Strength": 854.5137674565123
+        "Strength": 815.5295935372334
     },
     {
         "team_id": "108319257932089006",
         "name": "Osaka",
         "rank": 579,
-        "Strength": 851.8977723721763
-    },
-    {
-        "team_id": "105593278887024877",
-        "name": "Inaequalis",
-        "rank": 580,
-        "Strength": 850.1262067722923
-    },
-    {
-        "team_id": "105521239281281237",
-        "name": "CowBoySquad Imperials Esports",
-        "rank": 581,
-        "Strength": 849.2405130101874
-    },
-    {
-        "team_id": "105519846782566525",
-        "name": "MnM Gaming",
-        "rank": 582,
-        "Strength": 848.201020185906
-    },
-    {
-        "team_id": "109671201259007744",
-        "name": "Team Liquid Honda First",
-        "rank": 583,
-        "Strength": 848.0458234311959
-    },
-    {
-        "team_id": "99566408222831088",
-        "name": "Liberty",
-        "rank": 584,
-        "Strength": 846.2422544838956
-    },
-    {
-        "team_id": "105521293297166647",
-        "name": "Hell Zerolag Esports",
-        "rank": 585,
-        "Strength": 844.2849356620668
-    },
-    {
-        "team_id": "101383792887446028",
-        "name": "MAMMOTH",
-        "rank": 586,
-        "Strength": 842.459216296102
-    },
-    {
-        "team_id": "101383792559569368",
-        "name": "All Knights",
-        "rank": 587,
-        "Strength": 840.0336809914292
-    },
-    {
-        "team_id": "106806779752531762",
-        "name": "Globant Emerald Team",
-        "rank": 588,
-        "Strength": 839.5416813029201
-    },
-    {
-        "team_id": "104202382255290736",
-        "name": "RENSGA",
-        "rank": 589,
-        "Strength": 838.6388900661788
-    },
-    {
-        "team_id": "105521504308341229",
-        "name": "Team Refuse",
-        "rank": 590,
-        "Strength": 838.2509851209006
+        "Strength": 814.6070501357797
     },
     {
         "team_id": "107700211633200412",
         "name": "Meta Falcon Team",
-        "rank": 591,
-        "Strength": 837.3491554548553
+        "rank": 580,
+        "Strength": 810.6158641620082
     },
     {
-        "team_id": "99566406066182955",
-        "name": "GALAKTICOS",
-        "rank": 592,
-        "Strength": 833.9427703605518
-    },
-    {
-        "team_id": "105593213115128994",
-        "name": "Dark Tigers",
-        "rank": 593,
-        "Strength": 833.2411790295688
-    },
-    {
-        "team_id": "98767991930907107",
-        "name": "Immortals Progressive",
-        "rank": 594,
-        "Strength": 828.3920292274221
-    },
-    {
-        "team_id": "110383487456480967",
-        "name": "Vertex ESC",
-        "rank": 595,
-        "Strength": 820.8263700517233
-    },
-    {
-        "team_id": "105709099258505657",
-        "name": "PEACE",
-        "rank": 596,
-        "Strength": 818.1732747900636
-    },
-    {
-        "team_id": "102787200138722262",
-        "name": "Devils.One",
-        "rank": 597,
-        "Strength": 817.9547919780334
-    },
-    {
-        "team_id": "101978171843206569",
-        "name": "Vega Squadron",
-        "rank": 598,
-        "Strength": 817.3390864940695
-    },
-    {
-        "team_id": "101428372598668846",
-        "name": "Burning Core",
-        "rank": 599,
-        "Strength": 810.5809471783555
-    },
-    {
-        "team_id": "101428372603715124",
-        "name": "Crest Gaming Act",
-        "rank": 600,
-        "Strength": 807.6539951745865
-    },
-    {
-        "team_id": "99566406069969565",
-        "name": "Info Yat\u0131r\u0131m Aurora",
-        "rank": 601,
-        "Strength": 806.6715072340278
-    },
-    {
-        "team_id": "104367072827489994",
-        "name": "Berjaya Dragons",
-        "rank": 602,
-        "Strength": 805.8841930230091
-    },
-    {
-        "team_id": "105521419784127190",
-        "name": "Komil&Friends",
-        "rank": 603,
-        "Strength": 805.1275310526634
-    },
-    {
-        "team_id": "101428372607057464",
-        "name": "AXIZ",
-        "rank": 604,
-        "Strength": 805.0304632753084
-    },
-    {
-        "team_id": "104367099322647716",
-        "name": "Liyab Esports",
-        "rank": 605,
-        "Strength": 802.9175216522824
+        "team_id": "105521293297166647",
+        "name": "Hell Zerolag Esports",
+        "rank": 581,
+        "Strength": 809.8040103650654
     },
     {
         "team_id": "109828279319224248",
         "name": "MGN Box Esports",
-        "rank": 606,
-        "Strength": 798.9428198685716
+        "rank": 582,
+        "Strength": 806.2607856867184
     },
     {
-        "team_id": "109675490370327425",
-        "name": "Ground Zero",
-        "rank": 607,
-        "Strength": 795.608449357757
+        "team_id": "110383487456480967",
+        "name": "Vertex ESC",
+        "rank": 583,
+        "Strength": 804.6441560143147
     },
     {
-        "team_id": "102787200130988976",
-        "name": "ASUS ROG Elite",
-        "rank": 608,
-        "Strength": 794.9650935982826
+        "team_id": "99566406069969565",
+        "name": "Info Yat\u0131r\u0131m Aurora",
+        "rank": 584,
+        "Strength": 803.383316688473
     },
     {
-        "team_id": "105593161016793151",
-        "name": "Inside Games",
-        "rank": 609,
-        "Strength": 792.7749153702607
+        "team_id": "105519846782566525",
+        "name": "MnM Gaming",
+        "rank": 585,
+        "Strength": 802.9356783557503
     },
     {
-        "team_id": "108361563004344389",
-        "name": "The Last Dance",
-        "rank": 610,
-        "Strength": 784.5371275132998
+        "team_id": "98767991930907107",
+        "name": "Immortals Progressive",
+        "rank": 586,
+        "Strength": 798.919949518389
+    },
+    {
+        "team_id": "99566408221114231",
+        "name": "KaBuM! Esports",
+        "rank": 587,
+        "Strength": 797.6994942189674
     },
     {
         "team_id": "109671193729027761",
         "name": "FLY FAM",
-        "rank": 611,
-        "Strength": 784.0358142385707
+        "rank": 588,
+        "Strength": 797.1850379588094
     },
     {
-        "team_id": "105594163014588871",
-        "name": "Boavista F.C",
-        "rank": 612,
-        "Strength": 759.4899226023332
+        "team_id": "109697686032800938",
+        "name": "XtremeDominators",
+        "rank": 589,
+        "Strength": 796.1636378063997
     },
     {
-        "team_id": "98767991916844003",
-        "name": "Kaos Latin Gamers",
-        "rank": 613,
-        "Strength": 758.7915684693065
+        "team_id": "104367072827489994",
+        "name": "Berjaya Dragons",
+        "rank": 590,
+        "Strength": 793.9947454050492
+    },
+    {
+        "team_id": "101978171843206569",
+        "name": "Vega Squadron",
+        "rank": 591,
+        "Strength": 793.6003876477747
+    },
+    {
+        "team_id": "105709099258505657",
+        "name": "PEACE",
+        "rank": 592,
+        "Strength": 789.9013139890505
+    },
+    {
+        "team_id": "104367099322647716",
+        "name": "Liyab Esports",
+        "rank": 593,
+        "Strength": 786.3940791436676
+    },
+    {
+        "team_id": "108361563004344389",
+        "name": "The Last Dance",
+        "rank": 594,
+        "Strength": 784.0938569590143
+    },
+    {
+        "team_id": "105594176887807460",
+        "name": "EFIVE Esports",
+        "rank": 595,
+        "Strength": 783.1130645668534
+    },
+    {
+        "team_id": "106371176555003349",
+        "name": "NK Osijek Esport",
+        "rank": 596,
+        "Strength": 779.7453678524431
+    },
+    {
+        "team_id": "109675490370327425",
+        "name": "Ground Zero",
+        "rank": 597,
+        "Strength": 778.2597110395182
+    },
+    {
+        "team_id": "101428372607057464",
+        "name": "AXIZ",
+        "rank": 598,
+        "Strength": 777.838903459038
+    },
+    {
+        "team_id": "104202382255290736",
+        "name": "RENSGA",
+        "rank": 599,
+        "Strength": 776.6166964332804
+    },
+    {
+        "team_id": "99566408222831088",
+        "name": "Liberty",
+        "rank": 600,
+        "Strength": 776.1711417928551
+    },
+    {
+        "team_id": "101428372598668846",
+        "name": "Burning Core",
+        "rank": 601,
+        "Strength": 772.2828187443403
+    },
+    {
+        "team_id": "101428372603715124",
+        "name": "Crest Gaming Act",
+        "rank": 602,
+        "Strength": 768.7276548248302
+    },
+    {
+        "team_id": "105521504308341229",
+        "name": "Team Refuse",
+        "rank": 603,
+        "Strength": 767.0816046536902
+    },
+    {
+        "team_id": "107456352597333899",
+        "name": "NNO Prime",
+        "rank": 604,
+        "Strength": 762.7896893865415
+    },
+    {
+        "team_id": "105521239281281237",
+        "name": "CowBoySquad Imperials Esports",
+        "rank": 605,
+        "Strength": 760.7020421246331
+    },
+    {
+        "team_id": "105593278887024877",
+        "name": "Inaequalis",
+        "rank": 606,
+        "Strength": 750.3278149484587
+    },
+    {
+        "team_id": "102787200138722262",
+        "name": "Devils.One",
+        "rank": 607,
+        "Strength": 747.6809199768132
+    },
+    {
+        "team_id": "105593213115128994",
+        "name": "Dark Tigers",
+        "rank": 608,
+        "Strength": 739.6940531534824
     },
     {
         "team_id": "107437032053655867",
         "name": "Kanga Esports",
-        "rank": 615,
-        "Strength": 743.6356789135332
+        "rank": 610,
+        "Strength": 733.2583406487885
     },
     {
-        "team_id": "103495716836203404",
-        "name": "5 Ronin",
-        "rank": 616,
-        "Strength": 738.2338555324125
+        "team_id": "105521419784127190",
+        "name": "Komil&Friends",
+        "rank": 611,
+        "Strength": 730.7504744673552
     },
     {
-        "team_id": "99566406070802758",
-        "name": "Royal Youth",
-        "rank": 617,
-        "Strength": 727.7375245669353
+        "team_id": "98767991916844003",
+        "name": "Kaos Latin Gamers",
+        "rank": 612,
+        "Strength": 727.247443656251
     },
     {
-        "team_id": "107700208463820785",
-        "name": "Hurricane Gaming",
-        "rank": 618,
-        "Strength": 720.5439369476095
+        "team_id": "105593161016793151",
+        "name": "Inside Games",
+        "rank": 613,
+        "Strength": 703.2065507267157
     },
     {
-        "team_id": "105663527959374033",
-        "name": "CTRL PLAY Team",
-        "rank": 619,
-        "Strength": 711.7866380168223
+        "team_id": "102787200130988976",
+        "name": "ASUS ROG Elite",
+        "rank": 614,
+        "Strength": 696.2583253486795
     },
     {
         "team_id": "107251231972989211",
         "name": "SBTC ESPORTS",
+        "rank": 615,
+        "Strength": 691.4796878904209
+    },
+    {
+        "team_id": "107700208463820785",
+        "name": "Hurricane Gaming",
+        "rank": 616,
+        "Strength": 687.8612167279354
+    },
+    {
+        "team_id": "103495716836203404",
+        "name": "5 Ronin",
+        "rank": 617,
+        "Strength": 675.396189156535
+    },
+    {
+        "team_id": "105594163014588871",
+        "name": "Boavista F.C",
+        "rank": 618,
+        "Strength": 675.2571254700769
+    },
+    {
+        "team_id": "99566406070802758",
+        "name": "Royal Youth",
+        "rank": 619,
+        "Strength": 660.3999264896678
+    },
+    {
+        "team_id": "105663527959374033",
+        "name": "CTRL PLAY Team",
         "rank": 620,
-        "Strength": 684.400293956282
+        "Strength": 646.5657004582807
     },
     {
         "team_id": "101428372830010965",
         "name": "Alpha Esports",
         "rank": 621,
-        "Strength": 653.813317703986
+        "Strength": 636.7834167837798
     },
     {
         "team_id": "108517492697602721",
         "name": "Dewish Team",
         "rank": 622,
-        "Strength": 617.7371205571474
-    },
-    {
-        "team_id": "101428372602011186",
-        "name": "V3 Esports",
-        "rank": 623,
-        "Strength": 597.3635689943317
+        "Strength": 586.7577455552766
     },
     {
         "team_id": "101383792891050518",
         "name": "Gravitas",
-        "rank": 624,
-        "Strength": 571.8030855472151
+        "rank": 623,
+        "Strength": 543.9492207944527
     },
     {
         "team_id": "107635420167535818",
         "name": "SEM9",
+        "rank": 624,
+        "Strength": 532.1004607811086
+    },
+    {
+        "team_id": "101428372602011186",
+        "name": "V3 Esports",
         "rank": 625,
-        "Strength": 567.7544497178587
+        "Strength": 531.4476318264755
     }
 ]
