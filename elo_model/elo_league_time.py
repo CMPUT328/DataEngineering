@@ -49,43 +49,43 @@ original_dict = {
 
 league_ranks = {
     'Worlds': 100,
-    'MSI': 70,
-    'LEC': 40,
-    'LCK': 40,
-    'LCS': 40,
-    'LPL': 40,
-    'PCS': 40,
-    'VCS': 40,
-    'CBLOL': 20,
-    'LLA': 20,
-    'LJL': 20,
-    'LCL': 20,
-    'TCL': 20,
-    'LCO': 20,
-    'EMEA Masters': 20,
-    'All-Star Event': 20,
+    'MSI': 85,
+    'LPL': 65,   # China's LPL has been historically very strong.
+    'LCK': 60,   # Korea's LCK has a storied history in LoL esports.
+    'LEC': 55,   # Europe's LEC is a strong region with a deep talent pool.
+    'LCS': 50,   # North America's LCS.
+    'PCS': 45,   # Pacific Championship Series.
+    'VCS': 40,   # Vietnam's VCS.
+    'EMEA Masters': 35,  # Significant regional event.
+    'CBLOL': 30, # Brazil's league.
+    'LLA': 30,   # Latin America's LLA.
+    'TCL': 30,   # Turkey's TCL.
+    'LCL': 30,   # The Commonwealth of Independent States' LCL.
+    'LJL': 25,   # Japan's LJL.
+    'LCO': 25,   # Oceania's LCO.
+    'Prime League': 25, # German league.
+    'Ultraliga': 25,    # Polish league.
+    'SuperLiga': 25,    # Spanish league.
+    'PG Nationals': 25, # Italian league.
+    'NLC': 20,   # Northern Europe.
+    'La Ligue Française': 20,   # French league.
+    'Hitpoint Masters': 20,     # Czech league.
+    'Esports Balkan League': 20, # Balkan league.
+    'Greek Legends League': 20,  # Greek league.
+    'Elite Series': 20,          # British league.
+    'Liga Portuguesa': 20,       # Portuguese league.
+    'North Regional League': 15,
+    'South Regional League': 15,
+    'Arabian League': 15,
+    'All-Star Event': 15,
     'LCS Challengers': 10,
-    'LCS Challengers Qualifiers': 10,
     'LCK Challengers': 10,
+    'LCS Challengers Qualifiers': 10,
     'LCK Academy': 10,
     'LJL Academy': 10,
     'CBLOL Academy': 10,
     'College Championship': 10,
-    'Prime League': 10,
-    'NLC': 10,
-    'La Ligue Française': 10,
-    'Ultraliga': 10,
-    'SuperLiga': 10,
-    'PG Nationals': 10,
-    'Liga Portuguesa': 10,
-    'Hitpoint Masters': 10,
-    'Esports Balkan League': 10,
-    'Greek Legends League': 10,
-    'Elite Series': 10,
     'TFT Rising Legends': 10,
-    'North Regional League': 10,
-    'South Regional League': 10,
-    'Arabian League': 10
 }
 
 
@@ -125,8 +125,8 @@ for team1, team2, result, league_id, section_name, date in training_data:
         k2 = 5
 
         if (section_name == "Playoffs" or section_name == "knockouts"):
-            k1 *= 2.5
-            k2 *= 1.5
+            k1 *= 1.2
+            k2 *= 1.2
 
         # Update strength for team 1
         adjustment_team1 = k1 * (result - 1 / (pow(10, (-dr/400)) + 1))
@@ -150,8 +150,8 @@ for team1, team2, result, league_id, section_name, date in training_data:
         k2 = league_ranks[original_dict[str(league_id)]]
 
         if (section_name == "Playoffs" or section_name == "knockouts"):
-            k1 *= 2.5
-            k2 *= 1.5
+            k1 *= 1.2
+            k2 *= 1.2
 
         # Update strength for team 1
         adjustment_team1 = k1 * (result - 1 / (pow(10, (-dr/400)) + 1))
